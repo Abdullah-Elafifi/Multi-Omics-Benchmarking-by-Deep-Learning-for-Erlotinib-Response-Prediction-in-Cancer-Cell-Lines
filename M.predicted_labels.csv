@@ -1,0 +1,1851 @@
+sample_id,variable,class_label,probability,known_label,predicted_label,split
+source_dataset:TE-15,Erlotinib,,,,0.13878938555717468,train
+source_dataset:SaOS-2,Erlotinib,,,0.0,-0.0018064090982079506,train
+source_dataset:NCI-H747,Erlotinib,,,0.210227900756041,0.21345774829387665,train
+source_dataset:IM-9,Erlotinib,,,0.0072128917308504,0.019010838121175766,train
+source_dataset:NCI-H2591,Erlotinib,,,0.0929386881660237,0.07984858751296997,train
+source_dataset:JVM-2,Erlotinib,,,0.0638842930736179,0.06691603362560272,train
+source_dataset:NALM-6,Erlotinib,,,0.0445844307172418,0.04220505431294441,train
+source_dataset:GCIY,Erlotinib,,,0.104588580231879,0.03319322690367699,train
+source_dataset:SK-MEL-30,Erlotinib,,,,0.05737485736608505,train
+source_dataset:MKN45,Erlotinib,,,0.0,0.002982217585667968,train
+source_dataset:HCE-4,Erlotinib,,,,0.060925088822841644,train
+source_dataset:LB2241-RCC,Erlotinib,,,,0.10146095603704453,train
+source_dataset:ES8,Erlotinib,,,0.0816298550163075,0.07857605814933777,train
+source_dataset:NCI-H64,Erlotinib,,,0.0509091200332347,0.041782673448324203,train
+source_dataset:KOSC-2,Erlotinib,,,,0.13604077696800232,train
+source_dataset:QGP-1,Erlotinib,,,,0.06143161281943321,train
+source_dataset:NCC021,Erlotinib,,,,0.09368608891963959,train
+source_dataset:G-mel,Erlotinib,,,,0.06742637604475021,train
+source_dataset:SN12C,Erlotinib,,,0.0911603338791572,0.08588771522045135,train
+source_dataset:COLO 783,Erlotinib,,,,-0.0070940712466835976,train
+source_dataset:KNS-42,Erlotinib,,,,0.07475166767835617,train
+source_dataset:OC 314,Erlotinib,,,0.0663229071364073,0.05442378297448158,train
+source_dataset:NCC010,Erlotinib,,,,0.0912337452173233,train
+source_dataset:A-388,Erlotinib,,,,0.12057797610759735,train
+source_dataset:Reh,Erlotinib,,,0.0017601926052374,0.024730991572141647,train
+source_dataset:PC-3,Erlotinib,,,0.0314348689477129,0.01824440062046051,train
+source_dataset:RL,Erlotinib,,,,0.07324022799730301,train
+source_dataset:T84,Erlotinib,,,0.125982157036278,0.12215601652860641,train
+source_dataset:TE-9,Erlotinib,,,0.123723346332712,0.1012747585773468,train
+source_dataset:SW1573,Erlotinib,,,0.0250431547942305,0.006223592907190323,train
+source_dataset:MG-63,Erlotinib,,,0.0421876668057372,0.056119635701179504,train
+source_dataset:SK-MEL-3,Erlotinib,,,,0.020731359720230103,train
+source_dataset:HCC78,Erlotinib,,,0.0491304511049941,0.033109359443187714,train
+source_dataset:G-401,Erlotinib,,,0.0400108161701496,0.030567675828933716,train
+source_dataset:SW1088,Erlotinib,,,0.110024121337932,0.07343141734600067,train
+source_dataset:NCI-H748,Erlotinib,,,,0.016096413135528564,train
+source_dataset:NCI-H630,Erlotinib,,,,0.11764182895421982,train
+source_dataset:WRO,Erlotinib,,,0.0183433366493724,0.022208508104085922,train
+source_dataset:NCI-H2444,Erlotinib,,,,0.047349944710731506,train
+source_dataset:D283 Med,Erlotinib,,,0.0524689912422026,0.035423487424850464,train
+source_dataset:RPMI-8866,Erlotinib,,,,0.12969622015953064,train
+source_dataset:KU-19-19,Erlotinib,,,0.0481506913499164,0.04410165175795555,train
+source_dataset:KON,Erlotinib,,,,0.11238625645637512,train
+source_dataset:KMRC-1,Erlotinib,,,0.0228852619874842,0.028199011459946632,train
+source_dataset:TGBC24TKB,Erlotinib,,,0.12839221338189,0.12414908409118652,train
+source_dataset:RCM-1 [Human rectum adenocarcinoma],Erlotinib,,,0.0764819096089081,0.08851949870586395,train
+source_dataset:RKN,Erlotinib,,,0.0476953934054088,0.06799469888210297,train
+source_dataset:Calu-3,Erlotinib,,,0.0383672592082141,0.03789866715669632,train
+source_dataset:IST-SL1,Erlotinib,,,,0.014293011277914047,train
+source_dataset:VL51,Erlotinib,,,0.0,0.0015052761882543564,train
+source_dataset:EW-3,Erlotinib,,,0.0179004700878322,0.02376287430524826,train
+source_dataset:NCI-H1963,Erlotinib,,,0.009679338851408,0.022011836990714073,train
+source_dataset:BHY,Erlotinib,,,,0.1066041961312294,train
+source_dataset:EFM-19,Erlotinib,,,0.0027004650868092,0.0695948526263237,train
+source_dataset:NCI-H2009,Erlotinib,,,0.0468892901794345,0.047344692051410675,train
+source_dataset:SNU-61,Erlotinib,,,0.126965059621608,0.11620184034109116,train
+source_dataset:HC-1,Erlotinib,,,0.0340868154044701,0.05992312356829643,train
+source_dataset:OVCAR-3,Erlotinib,,,0.13193620416725,0.11667200177907944,train
+source_dataset:DK-MG,Erlotinib,,,0.0878350486527208,0.05451180040836334,train
+source_dataset:KO52,Erlotinib,,,,0.0674981027841568,train
+source_dataset:MS-1 [Human lung carcinoma],Erlotinib,,,0.0,0.008757153525948524,train
+source_dataset:Fu97,Erlotinib,,,0.0,0.001189790666103363,train
+source_dataset:RC-K8,Erlotinib,,,0.0528858101402446,0.055568620562553406,train
+source_dataset:A-704,Erlotinib,,,0.0470571542875395,0.10250042378902435,train
+source_dataset:HT-1080,Erlotinib,,,0.103494461002225,0.07777304947376251,train
+source_dataset:HT-1197,Erlotinib,,,0.150526604161224,0.1164955198764801,train
+source_dataset:DJM-1,Erlotinib,,,,0.01295583974570036,train
+source_dataset:Kuramochi,Erlotinib,,,0.0374692583535763,0.035238854587078094,train
+source_dataset:Hs 578T,Erlotinib,,,0.0,0.010733106173574924,train
+source_dataset:SK-HEP-1,Erlotinib,,,0.132263394894991,0.09631450474262238,train
+source_dataset:OCI-AML-2,Erlotinib,,,0.0738006473971765,0.05931168794631958,train
+source_dataset:HDLM-2,Erlotinib,,,0.149176430949222,0.02175632119178772,train
+source_dataset:NCI-H209,Erlotinib,,,0.023677058920034,0.037667665630578995,train
+source_dataset:KP-1N,Erlotinib,,,0.109974218825988,0.09818758815526962,train
+source_dataset:786-O,Erlotinib,,,0.16353602307036,0.12270045280456543,train
+source_dataset:Panc 04.03,Erlotinib,,,0.150338747650417,0.144677072763443,train
+source_dataset:Mel JuSo,Erlotinib,,,0.0,0.027831438928842545,train
+source_dataset:Hs 940.T,Erlotinib,,,,0.010399507358670235,train
+source_dataset:HCC1937,Erlotinib,,,0.152121749801794,0.11786618828773499,train
+source_dataset:QIMR-WIL,Erlotinib,,,,0.06296247988939285,train
+source_dataset:HCC1500,Erlotinib,,,0.0418082761044709,0.057196229696273804,train
+source_dataset:Lu-165,Erlotinib,,,0.0213726597462009,0.0055167414247989655,train
+source_dataset:BT-483,Erlotinib,,,0.0939562848127695,0.041903600096702576,train
+source_dataset:TUR,Erlotinib,,,0.0206982277267648,0.028393898159265518,train
+source_dataset:HO-1-N-1,Erlotinib,,,0.107349507388662,0.08429466933012009,train
+source_dataset:HARA [Human squamous cell lung carcinoma],Erlotinib,,,0.0488014352844363,0.04413744807243347,train
+source_dataset:NCI-H1651,Erlotinib,,,0.035106760337805,0.017969999462366104,train
+source_dataset:Farage,Erlotinib,,,,0.049271851778030396,train
+source_dataset:ES1,Erlotinib,,,0.0821987355896049,0.09789757430553436,train
+source_dataset:KP-N-YN,Erlotinib,,,0.0622706447859873,0.05290861800312996,train
+source_dataset:AGS,Erlotinib,,,0.0119508895830124,0.0162497665733099,train
+source_dataset:CHSA0011,Erlotinib,,,,0.031884703785181046,train
+source_dataset:TOV-21G,Erlotinib,,,0.129560176414043,0.1312246471643448,train
+source_dataset:MDA-MB-468,Erlotinib,,,0.108740338558122,0.11983689665794373,train
+source_dataset:SNU-175,Erlotinib,,,0.196615219343515,0.19569198787212372,train
+source_dataset:SW962,Erlotinib,,,,0.009749907068908215,train
+source_dataset:KGN,Erlotinib,,,0.0599764516483662,0.04991980642080307,train
+source_dataset:WSU-NHL,Erlotinib,,,0.0,0.00598591985180974,train
+source_dataset:CCF-STTG1,Erlotinib,,,,0.07579763233661652,train
+source_dataset:EHEB,Erlotinib,,,,0.050227947533130646,train
+source_dataset:U266B1,Erlotinib,,,0.0,-0.0023398175835609436,train
+source_dataset:COR-L32,Erlotinib,,,0.0,-0.01269964687526226,train
+source_dataset:TGW,Erlotinib,,,0.0165565881013634,0.021789707243442535,train
+source_dataset:NCI-H1836,Erlotinib,,,,0.09357082098722458,train
+source_dataset:ES-2,Erlotinib,,,0.0850547157637586,0.06763955950737,train
+source_dataset:BC-1,Erlotinib,,,0.0,0.02340489998459816,train
+source_dataset:SW48,Erlotinib,,,0.268328116685686,0.25929662585258484,train
+source_dataset:TK [Human B-cell lymphoma],Erlotinib,,,0.007591205787772,0.015141196548938751,train
+source_dataset:ES4,Erlotinib,,,0.148133713958744,0.139654740691185,train
+source_dataset:NCI-H1693,Erlotinib,,,0.197934987445167,0.1635212004184723,train
+source_dataset:NCI-H2369,Erlotinib,,,0.131004419708807,0.11870799958705902,train
+source_dataset:H9,Erlotinib,,,0.0373218963147581,0.03467296063899994,train
+source_dataset:NY,Erlotinib,,,0.0672715773185119,0.06379011273384094,train
+source_dataset:HT-55,Erlotinib,,,0.137791622514903,0.11291910707950592,train
+source_dataset:ChaGo-K-1,Erlotinib,,,,0.003032035892829299,train
+source_dataset:CFPAC-1,Erlotinib,,,0.196809542988945,0.0036269868724048138,train
+source_dataset:NCI-H520,Erlotinib,,,0.0544276842048052,0.04718710482120514,train
+source_dataset:RERF-GC-1B,Erlotinib,,,0.0564317703643807,0.04996686056256294,train
+source_dataset:ME-180,Erlotinib,,,0.161125922555766,0.0876658707857132,train
+source_dataset:SNU-5,Erlotinib,,,0.018421108098326,0.01945723220705986,train
+source_dataset:KTCTL-13,Erlotinib,,,,0.042613685131073,train
+source_dataset:Mo,Erlotinib,,,0.0,-0.004971745423972607,train
+source_dataset:NH-12,Erlotinib,,,0.0929692213382107,0.07502372562885284,train
+source_dataset:BL-41,Erlotinib,,,0.0118384917032668,0.025730635970830917,train
+source_dataset:201T,Erlotinib,,,,0.1343594342470169,train
+source_dataset:TE-6,Erlotinib,,,0.24535955249507,0.24144409596920013,train
+source_dataset:HSC-4,Erlotinib,,,0.184392032832647,0.15595056116580963,train
+source_dataset:JHU-011,Erlotinib,,,,0.19060936570167542,train
+source_dataset:Karpas-620,Erlotinib,,,0.0220131334217489,0.031040634959936142,train
+source_dataset:CHSA0108,Erlotinib,,,,0.005876295268535614,train
+source_dataset:OCI-AML-3,Erlotinib,,,0.0,0.0009019598364830017,train
+source_dataset:697,Erlotinib,,,0.0723215091879512,0.06073223799467087,train
+source_dataset:OE21,Erlotinib,,,0.192033036225235,0.19248127937316895,train
+source_dataset:ZR-75-30,Erlotinib,,,0.0590437922944436,0.05726966634392738,train
+source_dataset:SW948,Erlotinib,,,0.0246399619175591,0.10384923964738846,train
+source_dataset:K-562,Erlotinib,,,0.0101872019555111,0.011609796434640884,train
+source_dataset:NUGC-3,Erlotinib,,,0.23977326447954,0.21067363023757935,train
+source_dataset:KYSE-510,Erlotinib,,,,0.13986736536026,train
+source_dataset:NCI-H1105,Erlotinib,,,,0.018667377531528473,train
+source_dataset:HEL,Erlotinib,,,,0.013508216477930546,train
+source_dataset:MOLM-16,Erlotinib,,,,0.09137289226055145,train
+source_dataset:SK-MES-1,Erlotinib,,,0.140849325784196,0.10334236174821854,train
+source_dataset:H4,Erlotinib,,,0.06207311917361,0.059792034327983856,train
+source_dataset:CA46,Erlotinib,,,0.060209392888273,0.04596647992730141,train
+source_dataset:U-698-M,Erlotinib,,,0.0,0.017669547349214554,train
+source_dataset:SNU-283,Erlotinib,,,,0.1241150051355362,train
+source_dataset:NCI-H1915,Erlotinib,,,0.0669554559557138,0.057654574513435364,train
+source_dataset:THP-1,Erlotinib,,,,0.006386019289493561,train
+source_dataset:NCI-H2291,Erlotinib,,,,0.03456634655594826,train
+source_dataset:ARH-77,Erlotinib,,,0.0,0.07380681484937668,train
+source_dataset:HT-1376,Erlotinib,,,0.163329504266335,0.14269059896469116,train
+source_dataset:P32/ISH,Erlotinib,,,0.0,0.014430663548409939,train
+source_dataset:SBC-3,Erlotinib,,,0.0322653281625237,0.0327824205160141,train
+source_dataset:NCI-H28,Erlotinib,,,0.146562151339564,0.13374905288219452,train
+source_dataset:EFO-27,Erlotinib,,,,0.06474016606807709,train
+source_dataset:MES-SA,Erlotinib,,,0.1168597627257,0.1306743174791336,train
+source_dataset:GT3TKB,Erlotinib,,,,0.08299426734447479,train
+source_dataset:RPMI-6666,Erlotinib,,,0.0423366298942585,0.05962841957807541,train
+source_dataset:SK-MM-2,Erlotinib,,,0.0,0.00466492772102356,train
+source_dataset:Daoy,Erlotinib,,,0.0687042999930195,0.054271019995212555,train
+source_dataset:NCI-H1623,Erlotinib,,,0.159279834950132,0.13883091509342194,train
+source_dataset:COLO 684,Erlotinib,,,0.0270620617566272,0.017313718795776367,train
+source_dataset:T24,Erlotinib,,,,0.08175992220640182,train
+source_dataset:MDA-MB-453,Erlotinib,,,0.068358825087985,0.10868309438228607,train
+source_dataset:HT-3,Erlotinib,,,0.0872812627694755,0.08266758918762207,train
+source_dataset:TE-11,Erlotinib,,,,0.12215369939804077,train
+source_dataset:MFE-280,Erlotinib,,,0.0,-0.005866888910531998,train
+source_dataset:ESO-26,Erlotinib,,,0.113686876789855,0.09810465574264526,train
+source_dataset:HCC1187,Erlotinib,,,0.0269968794253393,0.030379347503185272,train
+source_dataset:RPMI-2650,Erlotinib,,,,0.048900093883275986,train
+source_dataset:RXF 393L,Erlotinib,,,,0.08428893238306046,train
+source_dataset:HO-1-u-1,Erlotinib,,,0.194857016446691,0.07636149227619171,train
+source_dataset:HuP-T3,Erlotinib,,,0.0819807845597156,0.07770460098981857,train
+source_dataset:CL-34,Erlotinib,,,,0.12532766163349152,train
+source_dataset:C32 [Human melanoma],Erlotinib,,,0.065620750366615,0.020044581964612007,train
+source_dataset:PWR-1E,Erlotinib,,,0.118268735063697,0.09706372022628784,train
+source_dataset:SCH,Erlotinib,,,,0.1255163848400116,train
+source_dataset:LS1034,Erlotinib,,,0.0831244749134112,0.07641993463039398,train
+source_dataset:ACN,Erlotinib,,,,0.0390394926071167,train
+source_dataset:TE 441.T,Erlotinib,,,,0.05083919316530228,train
+source_dataset:HL-60,Erlotinib,,,0.0071142786513688,0.013651076704263687,train
+source_dataset:HCC2998,Erlotinib,,,0.0757791095168724,0.0787196084856987,train
+source_dataset:NCI-H510A,Erlotinib,,,,0.0679372176527977,train
+source_dataset:UACC-257,Erlotinib,,,0.0959194197770232,0.06786254048347473,train
+source_dataset:OE33,Erlotinib,,,0.0787952959870467,0.20829415321350098,train
+source_dataset:MS751,Erlotinib,,,0.122092301806907,0.11312317848205566,train
+source_dataset:L-1236,Erlotinib,,,0.0051949849660495,0.01723587140440941,train
+source_dataset:SUIT-2,Erlotinib,,,0.0870832547923708,0.06864559650421143,train
+source_dataset:CS-1 [Human chondrosarcoma],Erlotinib,,,0.0381462708121352,0.032225653529167175,train
+source_dataset:HCC827,Erlotinib,,,0.506851035539846,0.4984318017959595,train
+source_dataset:COLO 800,Erlotinib,,,,0.011548362672328949,train
+source_dataset:NCI-H1299,Erlotinib,,,0.003360132485238,0.0005093757063150406,train
+source_dataset:OCUM-1,Erlotinib,,,0.0166030099190507,0.023287761956453323,train
+source_dataset:SiHa,Erlotinib,,,0.100299035011736,0.08339981734752655,train
+source_dataset:MLMA,Erlotinib,,,0.0499452106833892,0.04463048279285431,train
+source_dataset:NCI-H660,Erlotinib,,,,0.08173543214797974,train
+source_dataset:DEL,Erlotinib,,,0.170371407336351,0.20434008538722992,train
+source_dataset:KYSE-410,Erlotinib,,,0.139768181946511,0.10677626729011536,train
+source_dataset:Hep-G2/C3A,Erlotinib,,,0.0412973085442558,0.029886635020375252,train
+source_dataset:HOP-92,Erlotinib,,,0.138064751595122,0.11498012393712997,train
+source_dataset:SU-DHL-10,Erlotinib,,,0.104041741678245,0.03697017580270767,train
+source_dataset:UPCI-SCC-090,Erlotinib,,,0.193739440919384,0.029155587777495384,train
+source_dataset:Mono-Mac-6,Erlotinib,,,0.0104751617100743,0.012450126931071281,train
+source_dataset:639V,Erlotinib,,,0.113401886226925,0.08593890070915222,train
+source_dataset:OV7,Erlotinib,,,,0.05570217967033386,train
+source_dataset:PCI-15A,Erlotinib,,,,0.11588965356349945,train
+source_dataset:BB30-HNC,Erlotinib,,,,0.08390450477600098,train
+source_dataset:OV17R,Erlotinib,,,,0.10154541581869125,train
+source_dataset:NCI-H1435,Erlotinib,,,0.0121951117435619,0.009343008510768414,train
+source_dataset:SUP-HD1,Erlotinib,,,0.0,0.09112987667322159,train
+source_dataset:DiFi,Erlotinib,,,0.329950854181966,0.3200044631958008,train
+source_dataset:KG-1,Erlotinib,,,0.0270534998975233,0.018394090235233307,train
+source_dataset:NCI-H1581,Erlotinib,,,0.0086765931097237,0.006585540249943733,train
+source_dataset:EMC-BAC-1,Erlotinib,,,,0.15601666271686554,train
+source_dataset:NCI-H2722,Erlotinib,,,0.129899826035366,0.12652413547039032,train
+source_dataset:Hs 746.T,Erlotinib,,,0.0191777016611201,0.022740572690963745,train
+source_dataset:SU-DHL-4,Erlotinib,,,,0.09184834361076355,train
+source_dataset:KCL-22,Erlotinib,,,0.0382779023387861,0.0459812730550766,train
+source_dataset:Detroit 562,Erlotinib,,,0.113055729704239,0.1296885907649994,train
+source_dataset:L-540,Erlotinib,,,0.0,0.010326704941689968,train
+source_dataset:OE19,Erlotinib,,,0.0142240736676229,0.021189475432038307,train
+source_dataset:MOLT-13,Erlotinib,,,0.0022161191510482,0.017410745844244957,train
+source_dataset:COLO 678,Erlotinib,,,0.131240584265093,0.12351658195257187,train
+source_dataset:Karpas-299,Erlotinib,,,0.0393226954560845,0.046872302889823914,train
+source_dataset:Capan-2,Erlotinib,,,0.0882788023444997,0.07310888916254044,train
+source_dataset:NCI-H1092,Erlotinib,,,0.0467967568730553,0.03515417501330376,train
+source_dataset:ALL-SIL,Erlotinib,,,0.139647536850341,0.14600422978401184,train
+source_dataset:A-431,Erlotinib,,,,0.23697833716869354,train
+source_dataset:RERF-LC-KJ,Erlotinib,,,0.2118063182007,0.21106202900409698,train
+source_dataset:451Lu,Erlotinib,,,,0.034205563366413116,train
+source_dataset:NCI-H838,Erlotinib,,,,0.10487494617700577,train
+source_dataset:MOLP-8,Erlotinib,,,0.0,0.12750756740570068,train
+source_dataset:SK-UT-1,Erlotinib,,,0.0049614611243296,0.015014487318694592,train
+source_dataset:LK-2,Erlotinib,,,0.0442055731168206,0.0149321174249053,train
+source_dataset:SNU-182,Erlotinib,,,0.134188020283765,0.11717575043439865,train
+source_dataset:STS-0421,Erlotinib,,,,0.048716362565755844,train
+source_dataset:SAS,Erlotinib,,,0.135960299193435,0.10476400703191757,train
+source_dataset:D-263MG,Erlotinib,,,0.0430792520514913,0.02899756468832493,train
+source_dataset:NCI-H322M,Erlotinib,,,0.315994314870883,0.042661260813474655,train
+source_dataset:WM793,Erlotinib,,,0.102146140677706,0.07920169830322266,train
+source_dataset:SKM-1,Erlotinib,,,,0.059335462749004364,train
+source_dataset:NCI-H1155,Erlotinib,,,0.203915183917306,0.14062142372131348,train
+source_dataset:EMC-BAC-2,Erlotinib,,,0.146983951311469,0.12488400936126709,train
+source_dataset:B-CPAP,Erlotinib,,,0.122902705309522,0.05632323771715164,train
+source_dataset:Karpas-422,Erlotinib,,,0.0151876901153278,0.02563493885099888,train
+source_dataset:CAS-1,Erlotinib,,,0.0226474145819871,0.042912013828754425,train
+source_dataset:NCI-H2869,Erlotinib,,,,0.07018103450536728,train
+source_dataset:KY821,Erlotinib,,,0.0033592425810448,-0.012210913002490997,train
+source_dataset:A-673,Erlotinib,,,0.055179000489131,0.08868899941444397,train
+source_dataset:CTB-1,Erlotinib,,,,0.0708848387002945,train
+source_dataset:EB2,Erlotinib,,,0.0429537375852646,0.055534727871418,train
+source_dataset:IMR-5,Erlotinib,,,0.0,0.012219241820275784,train
+source_dataset:MDST8,Erlotinib,,,0.0918801120175044,0.10853765159845352,train
+source_dataset:HDQ-P1,Erlotinib,,,0.212324628003074,0.19610372185707092,train
+source_dataset:NCI-H661,Erlotinib,,,0.0183791567222997,0.006552942097187042,train
+source_dataset:AU565,Erlotinib,,,0.0822104060008212,0.06687033176422119,train
+source_dataset:NCI-H1703,Erlotinib,,,0.0492565931354735,0.047487009316682816,train
+source_dataset:MFE-319,Erlotinib,,,0.113284355525242,0.00968475453555584,train
+source_dataset:VA-ES-BJ,Erlotinib,,,0.0336946175120275,0.07104797661304474,train
+source_dataset:BPH-1,Erlotinib,,,0.259039605734209,0.1392926722764969,train
+source_dataset:K2 [Human melanoma],Erlotinib,,,,0.12194269150495529,train
+source_dataset:NCI-H720,Erlotinib,,,0.0296325541378149,0.02840036153793335,train
+source_dataset:VM-CUB-1,Erlotinib,,,0.0391537232636123,0.025986939668655396,train
+source_dataset:Panc 03.27,Erlotinib,,,0.108148180686502,0.03415895998477936,train
+source_dataset:DB,Erlotinib,,,0.0612038872115278,0.06006966531276703,train
+source_dataset:MOLT-16,Erlotinib,,,0.0280374095095509,0.038657739758491516,train
+source_dataset:HSC-3,Erlotinib,,,0.134505306477629,0.12504038214683533,train
+source_dataset:EW-18,Erlotinib,,,0.0290715233180989,0.026132315397262573,train
+source_dataset:WM115,Erlotinib,,,0.0167166059141056,0.013337543234229088,train
+source_dataset:CTV-1,Erlotinib,,,0.0285527954314114,0.0357389971613884,train
+source_dataset:ETK-1,Erlotinib,,,0.0962274073123258,0.08745381236076355,train
+source_dataset:SK-N-DZ,Erlotinib,,,0.190877746783005,0.1832413673400879,train
+source_dataset:JEG-3,Erlotinib,,,,0.055633753538131714,train
+source_dataset:LS513,Erlotinib,,,,0.05400335043668747,train
+source_dataset:ASH-3,Erlotinib,,,0.0822035495793275,0.06835915893316269,train
+source_dataset:NCI-H23,Erlotinib,,,0.0538111842857605,0.046485546976327896,train
+source_dataset:HCC1569,Erlotinib,,,,0.03200898319482803,train
+source_dataset:OCI-Ly7,Erlotinib,,,,0.06953254342079163,train
+source_dataset:FLO-1,Erlotinib,,,0.0378121979564782,0.06620941311120987,train
+source_dataset:Namalwa,Erlotinib,,,0.0062585047233556,0.022853314876556396,train
+source_dataset:P12-Ichikawa,Erlotinib,,,0.0565234182252757,0.03043205663561821,train
+source_dataset:NCI-H2052,Erlotinib,,,0.0973333751484498,0.0668005645275116,train
+source_dataset:NCI-H2795,Erlotinib,,,0.0550996824958782,0.04716094955801964,train
+source_dataset:NB4,Erlotinib,,,,0.043298251926898956,train
+source_dataset:CAL-120,Erlotinib,,,0.0827137544045422,0.09649797528982162,train
+source_dataset:NCI-H441,Erlotinib,,,0.148940303053976,0.11766795814037323,train
+source_dataset:NCI-H2135,Erlotinib,,,,0.0364343598484993,train
+source_dataset:Daudi,Erlotinib,,,0.041234282410828,0.05523250252008438,train
+source_dataset:TE-10,Erlotinib,,,,0.1424558013677597,train
+source_dataset:COLO 679,Erlotinib,,,0.0292994676928096,-0.0044378116726875305,train
+source_dataset:HCT 15,Erlotinib,,,0.0612639035453632,0.051042940467596054,train
+source_dataset:NCI-H2803,Erlotinib,,,,0.10391668975353241,train
+source_dataset:NCI-H2172,Erlotinib,,,,0.11288954317569733,train
+source_dataset:SiSo,Erlotinib,,,0.0966894274485269,0.08624528348445892,train
+source_dataset:NCI-H2452,Erlotinib,,,0.0656169240414553,0.06418876349925995,train
+source_dataset:LC-1/sq,Erlotinib,,,0.165341580819403,0.16890382766723633,train
+source_dataset:NCI-H2141,Erlotinib,,,0.0769405675517457,0.05210345983505249,train
+source_dataset:OVMIU,Erlotinib,,,0.23876239644168,0.23689596354961395,train
+source_dataset:TASK1,Erlotinib,,,,0.059426844120025635,train
+source_dataset:SW620,Erlotinib,,,0.0216219464265912,0.022797279059886932,train
+source_dataset:HOS,Erlotinib,,,0.0640453987890814,0.055592864751815796,train
+source_dataset:GaMG,Erlotinib,,,0.0,-0.006116762757301331,train
+source_dataset:NCI-H526,Erlotinib,,,0.0224022813119422,0.012336952611804008,train
+source_dataset:EN,Erlotinib,,,0.0357718419646901,0.031111087650060654,train
+source_dataset:KTCTL-26A,Erlotinib,,,,0.14635834097862244,train
+source_dataset:UWB1.289,Erlotinib,,,,0.1845676302909851,train
+source_dataset:OCUB-M,Erlotinib,,,0.082785767395351,0.046677637845277786,train
+source_dataset:SNG-M,Erlotinib,,,0.0731774351510269,0.24744533002376556,train
+source_dataset:KATO III,Erlotinib,,,0.0369197485710123,0.044131845235824585,train
+source_dataset:PF-382,Erlotinib,,,0.0,0.01270848698914051,train
+source_dataset:SJNB-7,Erlotinib,,,0.0624351476199665,0.049644455313682556,train
+source_dataset:HCC38,Erlotinib,,,0.0372734184577072,0.0357719324529171,train
+source_dataset:RT-4,Erlotinib,,,0.109424689460692,0.08764015138149261,train
+source_dataset:OAW42,Erlotinib,,,0.11542242607128,0.11452949792146683,train
+source_dataset:NCI-H1975,Erlotinib,,,0.134087101785305,0.12629929184913635,train
+source_dataset:C-33 A,Erlotinib,,,0.0934427645635586,0.1012185588479042,train
+source_dataset:HCC2218,Erlotinib,,,,0.11319416016340256,train
+source_dataset:K5,Erlotinib,,,0.0533732380574563,0.04346168413758278,train
+source_dataset:CHP-134,Erlotinib,,,0.0978841475625625,0.10049660503864288,train
+source_dataset:CL-40,Erlotinib,,,0.0346331974850973,0.0355026051402092,train
+source_dataset:CAL-72,Erlotinib,,,0.025858262894416,0.019759323447942734,train
+source_dataset:HeLa,Erlotinib,,,0.0024432496160568,0.018401987850666046,train
+source_dataset:JM-1,Erlotinib,,,,0.05599866062402725,train
+source_dataset:LB647-SCLC,Erlotinib,,,,0.10350595414638519,train
+source_dataset:NCI-N87,Erlotinib,,,0.0,0.0632261112332344,train
+source_dataset:HN,Erlotinib,,,,0.021981220692396164,train
+source_dataset:KNS-81-FD,Erlotinib,,,,0.1088559627532959,train
+source_dataset:Huh-7,Erlotinib,,,0.056106390938351,0.057437315583229065,train
+source_dataset:RS4;11,Erlotinib,,,0.0737301228490779,0.06499515473842621,train
+source_dataset:NCI-H2126,Erlotinib,,,,0.06119154021143913,train
+source_dataset:SiMa,Erlotinib,,,0.0,0.012487021274864674,train
+source_dataset:BALL-1,Erlotinib,,,0.0322397955605544,0.029254399240016937,train
+source_dataset:JIMT-1,Erlotinib,,,0.0839592299956522,0.06213393807411194,train
+source_dataset:22Rv1,Erlotinib,,,0.069736096163408,0.06847374141216278,train
+source_dataset:Kelly,Erlotinib,,,0.0926893742438769,0.08033662289381027,train
+source_dataset:AMO1,Erlotinib,,,0.0378329522147801,0.04181564599275589,train
+source_dataset:MZ-MEL-7,Erlotinib,,,,0.021535122767090797,train
+source_dataset:NCI-H1666,Erlotinib,,,0.239888386138555,0.20346291363239288,train
+source_dataset:LB771-HNC,Erlotinib,,,0.093266772649973,0.06470055878162384,train
+source_dataset:YT,Erlotinib,,,0.0,-0.00733489915728569,train
+source_dataset:OV-90,Erlotinib,,,0.0721029602654492,0.05668197199702263,train
+source_dataset:NMC-G1,Erlotinib,,,,0.11594439297914505,train
+source_dataset:HMV-II,Erlotinib,,,0.0062459037523043,-0.007051327731460333,train
+source_dataset:KMOE-2,Erlotinib,,,0.020199738441836,0.021905168890953064,train
+source_dataset:BT-474,Erlotinib,,,0.0902957505525503,0.12592241168022156,train
+source_dataset:SKN-3,Erlotinib,,,0.110808933748932,0.08455832302570343,train
+source_dataset:YKG-1,Erlotinib,,,,0.04878268390893936,train
+source_dataset:Jiyoye,Erlotinib,,,0.231501342822903,0.20769403874874115,train
+source_dataset:NCI-H69,Erlotinib,,,0.037759798857186,0.05559946224093437,train
+source_dataset:SK-MEL-2,Erlotinib,,,0.0,0.015337444841861725,train
+source_dataset:NCI-H3122,Erlotinib,,,0.0441908089321761,0.03160828351974487,train
+source_dataset:SNU-1040,Erlotinib,,,,0.1257673054933548,train
+source_dataset:KP-4,Erlotinib,,,0.0553098882841773,0.052392687648534775,train
+source_dataset:LoVo,Erlotinib,,,0.150013398998124,0.13744238018989563,train
+source_dataset:SW13,Erlotinib,,,0.140957640292288,0.1283436268568039,train
+source_dataset:KYSE-70,Erlotinib,,,0.0928558580583491,0.0938054546713829,train
+source_dataset:UACC-812,Erlotinib,,,0.0,0.009310917928814888,train
+source_dataset:SUP-B8,Erlotinib,,,,0.03435542434453964,train
+source_dataset:HT-29,Erlotinib,,,0.049706488152891,0.042857006192207336,train
+source_dataset:HT115,Erlotinib,,,,0.12337569892406464,train
+source_dataset:MPP 89,Erlotinib,,,0.12048513531765,0.09807445108890533,train
+source_dataset:NCI-H146,Erlotinib,,,,0.03723844140768051,train
+source_dataset:A2058,Erlotinib,,,0.079136036175367,0.054806001484394073,train
+source_dataset:SNU-81,Erlotinib,,,,0.11598034203052521,train
+source_dataset:NU-DUL-1,Erlotinib,,,,0.09210037440061569,train
+source_dataset:SNU-449,Erlotinib,,,0.111999494258823,0.09482063353061676,train
+source_dataset:SCC-4,Erlotinib,,,0.0,0.015005012042820454,train
+source_dataset:Becker,Erlotinib,,,0.0559695671309726,0.03141585737466812,train
+source_dataset:SK-NEP-1,Erlotinib,,,,0.0639505609869957,train
+source_dataset:KP-3,Erlotinib,,,0.0661268917797692,0.061351001262664795,train
+source_dataset:RCC10RGB,Erlotinib,,,0.221884830886706,0.20179681479930878,train
+source_dataset:Karpas-231,Erlotinib,,,0.171307917819092,0.0343167781829834,train
+source_dataset:SF295,Erlotinib,,,,0.017121242359280586,train
+source_dataset:MM1.S,Erlotinib,,,0.0158058625622355,0.03143869340419769,train
+source_dataset:SW837,Erlotinib,,,0.0682815836939045,0.08796368539333344,train
+source_dataset:TT2609-C02,Erlotinib,,,0.065813802548609,0.04766686633229256,train
+source_dataset:LN-18,Erlotinib,,,0.125698664426341,0.13514624536037445,train
+source_dataset:NCI-H1734,Erlotinib,,,,0.09402284026145935,train
+source_dataset:HLE,Erlotinib,,,0.0842854915130979,0.06087779253721237,train
+source_dataset:HA7-RCC,Erlotinib,,,,0.10941418260335922,train
+source_dataset:RVH-421,Erlotinib,,,,0.04802149906754494,train
+source_dataset:NCI-H1688,Erlotinib,,,0.107444928590354,0.08901340514421463,train
+source_dataset:HuTu 80,Erlotinib,,,,0.017569324001669884,train
+source_dataset:NCI-H1781,Erlotinib,,,0.105222131457116,0.056595608592033386,train
+source_dataset:SW1710,Erlotinib,,,0.071891126053978,0.07927579432725906,train
+source_dataset:Calu-6,Erlotinib,,,0.0722255998610351,0.05907704681158066,train
+source_dataset:HuP-T4,Erlotinib,,,0.182728249095992,0.15554183721542358,train
+source_dataset:NCI-H727,Erlotinib,,,0.018500195588399,0.015675149857997894,train
+source_dataset:NCI-H1355,Erlotinib,,,0.0654651217760985,0.06774003058671951,train
+source_dataset:GA-10,Erlotinib,,,0.0187670623048725,0.029386382550001144,train
+source_dataset:SNU-16,Erlotinib,,,0.0334888043109756,0.05275537446141243,train
+source_dataset:SNU-C1,Erlotinib,,,0.0191697173359498,0.2616126537322998,train
+source_dataset:LNCaP clone FGC,Erlotinib,,,0.0208821300751853,0.02016621083021164,train
+source_dataset:IGR-37,Erlotinib,,,0.0162794808491598,0.01837371103465557,train
+source_dataset:HuO9,Erlotinib,,,0.0167085460008972,0.009284311905503273,train
+source_dataset:HCC1419,Erlotinib,,,0.0421967153486887,0.031132522970438004,train
+source_dataset:NCI-H292,Erlotinib,,,,0.09791885316371918,train
+source_dataset:GR-ST,Erlotinib,,,0.0509430826487241,0.05268091708421707,train
+source_dataset:KTCTL-21,Erlotinib,,,,0.09671026468276978,train
+source_dataset:DG-75,Erlotinib,,,0.0057516163582952,0.010075731202960014,train
+source_dataset:LB1047-RCC,Erlotinib,,,,0.09128616750240326,train
+source_dataset:UMC-11,Erlotinib,,,0.208980109194481,0.2057097852230072,train
+source_dataset:Lu-139,Erlotinib,,,,0.02635062113404274,train
+source_dataset:DMS 53,Erlotinib,,,0.0840319775069894,0.04616006091237068,train
+source_dataset:NCI-H2347,Erlotinib,,,0.0173000089802618,0.0277040246874094,train
+source_dataset:OS-RC-2,Erlotinib,,,0.0774021137740855,0.07285516709089279,train
+source_dataset:TCCSUP,Erlotinib,,,0.129091860971311,0.11464215070009232,train
+source_dataset:NB69,Erlotinib,,,0.160135669263976,0.12050093710422516,train
+source_dataset:KE-37,Erlotinib,,,0.114673657544269,0.08951760083436966,train
+source_dataset:KYSE-520,Erlotinib,,,0.294400524066998,0.2699434757232666,train
+source_dataset:SNU-1,Erlotinib,,,0.145823211487494,0.1456689089536667,train
+source_dataset:GOTO,Erlotinib,,,0.0377601605871457,0.024386277422308922,train
+source_dataset:Ca Ski,Erlotinib,,,0.171508172085414,0.14579224586486816,train
+source_dataset:NCI-H1793,Erlotinib,,,0.112680288547275,0.09637308865785599,train
+source_dataset:CAL-62,Erlotinib,,,0.0704291085745773,0.06992757320404053,train
+source_dataset:NCI-H1341,Erlotinib,,,0.260479415286988,0.0834195613861084,train
+source_dataset:CAL-12T,Erlotinib,,,,0.06955570727586746,train
+source_dataset:FaDu,Erlotinib,,,0.0919298555133749,0.08221766352653503,train
+source_dataset:HSC-39,Erlotinib,,,0.053706926921313,0.1161109209060669,train
+source_dataset:TE-12,Erlotinib,,,,0.1712862253189087,train
+source_dataset:HCC15,Erlotinib,,,0.110828091021658,0.09919723868370056,train
+source_dataset:GAK,Erlotinib,,,0.0550717888305092,0.06040188670158386,train
+source_dataset:LN-229,Erlotinib,,,0.142425566654279,0.11465615034103394,train
+source_dataset:CHL-1,Erlotinib,,,0.0654932276051647,0.0558527410030365,train
+source_dataset:A-375,Erlotinib,,,0.063263635945261,0.040784794837236404,train
+source_dataset:Ku812,Erlotinib,,,0.13920547832318,0.12489937245845795,train
+source_dataset:JHOS-2,Erlotinib,,,,0.05890270695090294,train
+source_dataset:NB1,Erlotinib,,,0.0666648513472182,0.06702494621276855,train
+source_dataset:LS123,Erlotinib,,,0.0642274820876216,0.04606619104743004,train
+source_dataset:KNS-62,Erlotinib,,,0.0481804125050365,0.10147852450609207,train
+source_dataset:EFO-21,Erlotinib,,,0.0969341471121416,0.07843190431594849,train
+source_dataset:GP5d,Erlotinib,,,0.12122190575726,0.11472932994365692,train
+source_dataset:OAW28,Erlotinib,,,0.0535034794685187,0.05674723535776138,train
+source_dataset:CW-2,Erlotinib,,,0.0574953424817218,0.06817217171192169,train
+source_dataset:FU-OV-1,Erlotinib,,,0.0949714158265014,0.0808701291680336,train
+source_dataset:D-542MG,Erlotinib,,,,0.04342935234308243,train
+source_dataset:SW626,Erlotinib,,,0.046228787222091,0.046432577073574066,train
+source_dataset:HCC1599,Erlotinib,,,,0.04671057313680649,train
+source_dataset:JVM-3,Erlotinib,,,0.0436716228376414,0.03838062658905983,train
+source_dataset:Rh18,Erlotinib,,,,0.13939937949180603,train
+source_dataset:U-87MG ATCC,Erlotinib,,,0.103468581929975,0.09744647145271301,train
+source_dataset:LP-1,Erlotinib,,,,0.027779407799243927,train
+source_dataset:MDA-MB-436,Erlotinib,,,0.0160139240432495,0.007981356233358383,train
+source_dataset:SCaBER,Erlotinib,,,,0.1153518557548523,train
+source_dataset:JHH-1,Erlotinib,,,0.155776457786327,0.1442272961139679,train
+source_dataset:MSTO-211H,Erlotinib,,,0.155385863386736,0.05772743374109268,train
+source_dataset:HT-144,Erlotinib,,,0.0095970494401134,0.0036214408464729786,train
+source_dataset:JHU-029,Erlotinib,,,,0.11955749243497849,train
+source_dataset:DoHH2,Erlotinib,,,,0.0359361432492733,train
+source_dataset:OVISE,Erlotinib,,,0.145772529459688,0.1374206840991974,train
+source_dataset:PaTu 8988t,Erlotinib,,,0.109354923237012,0.07077667117118835,train
+source_dataset:LB996-RCC,Erlotinib,,,0.244483749101784,0.23327942192554474,train
+source_dataset:M059J,Erlotinib,,,0.101546819945072,0.00032588187605142593,train
+source_dataset:VMRC-LCD,Erlotinib,,,0.0,0.009221300482749939,train
+source_dataset:RKO,Erlotinib,,,0.0,0.013953623361885548,train
+source_dataset:SK-MEL-24,Erlotinib,,,0.0129622894813707,0.017903123050928116,train
+source_dataset:HuH-1,Erlotinib,,,0.0741540942574342,0.06836187094449997,train
+source_dataset:TGBC11TKB,Erlotinib,,,0.0695028945912259,0.035597145557403564,train
+source_dataset:BB49-HNC,Erlotinib,,,0.0649032011794549,0.03683563694357872,train
+source_dataset:KS-1 [Human glioblastoma],Erlotinib,,,0.0056804939376807,0.01638556644320488,train
+source_dataset:NCI-H82,Erlotinib,,,0.0375500055757935,0.025847434997558594,train
+source_dataset:WM35,Erlotinib,,,0.0629563015147774,0.034069545567035675,train
+source_dataset:SBC-1,Erlotinib,,,,0.042711008340120316,train
+source_dataset:EM-2,Erlotinib,,,0.0453624148928001,0.04726318642497063,train
+source_dataset:EW-11,Erlotinib,,,0.0166032356760586,0.021642591804265976,train
+source_dataset:LS180,Erlotinib,,,0.0835746828009462,0.0806707963347435,train
+source_dataset:CHSA8926,Erlotinib,,,0.125851333516567,0.10081181675195694,train
+source_dataset:NCI-H2066,Erlotinib,,,0.111759940522784,0.12606099247932434,train
+source_dataset:NCI-H1563,Erlotinib,,,0.14221529944924,0.12249479442834854,train
+source_dataset:HCT 116,Erlotinib,,,0.0129015220458851,0.002168229315429926,train
+source_dataset:KMS-12-BM,Erlotinib,,,0.122636740426171,0.03902598097920418,train
+source_dataset:BB65-RCC,Erlotinib,,,,0.07204291969537735,train
+source_dataset:SJNB-10,Erlotinib,,,0.0245651813971402,0.0315154492855072,train
+source_dataset:EW-24,Erlotinib,,,0.0039770424692694,0.015086906962096691,train
+source_dataset:NCI-H1694,Erlotinib,,,0.139833748695643,0.11575370281934738,train
+source_dataset:D-566MG,Erlotinib,,,,0.06743764132261276,train
+source_dataset:SU-DHL-8,Erlotinib,,,0.0635468078654092,0.07044844329357147,train
+source_dataset:TE-5,Erlotinib,,,0.0574097299569007,0.04072634130716324,train
+source_dataset:EW-1,Erlotinib,,,0.0720947818928973,0.07346794009208679,train
+source_dataset:NCI-H3255,Erlotinib,,,,0.08466613292694092,train
+source_dataset:NCI-H513,Erlotinib,,,0.174566769336701,0.15830430388450623,train
+source_dataset:KYSE-220,Erlotinib,,,0.188346243719894,0.18903487920761108,train
+source_dataset:NCI-H1417,Erlotinib,,,0.0745471037139519,0.06462650001049042,train
+source_dataset:KOPN-8,Erlotinib,,,0.198148516850616,0.18167871236801147,train
+source_dataset:Onda 11,Erlotinib,,,,0.12462113052606583,train
+source_dataset:VMRC-RCZ,Erlotinib,,,0.0788264548067618,0.07296089828014374,train
+source_dataset:CAL-29,Erlotinib,,,0.147035645015567,0.12252162396907806,train
+source_dataset:HAL-01,Erlotinib,,,0.0115378275470124,0.027471253648400307,train
+source_dataset:NCI-H2595,Erlotinib,,,0.060629568955771,0.04455083608627319,train
+source_dataset:TK-10,Erlotinib,,,0.141051776663695,0.11178186535835266,train
+source_dataset:NCI-H716,Erlotinib,,,0.178454822937325,0.16290664672851562,train
+source_dataset:DU145,Erlotinib,,,0.0504256442011685,0.08268369734287262,train
+source_dataset:YH-13,Erlotinib,,,0.108330519226621,0.07702672481536865,train
+source_dataset:JHH-6,Erlotinib,,,0.0653974526832157,0.12783589959144592,train
+source_dataset:RT-112,Erlotinib,,,0.0817115290005434,0.05353306978940964,train
+source_dataset:HCC202,Erlotinib,,,,0.04322998225688934,train
+source_dataset:769-P,Erlotinib,,,0.0998666835523972,0.0857124924659729,train
+source_dataset:LOX-IMVI,Erlotinib,,,0.120280559181888,0.1145986020565033,train
+source_dataset:EJM,Erlotinib,,,0.0217980694363712,0.025785252451896667,train
+source_dataset:COR-L279,Erlotinib,,,0.0421146631818858,0.03419408202171326,train
+source_dataset:MDA-MB-361,Erlotinib,,,0.104883135451205,0.10315808653831482,train
+source_dataset:Karpas-1106P,Erlotinib,,,0.0036009151585825,0.01974598504602909,train
+source_dataset:A4/Fukuda,Erlotinib,,,0.0247666766921647,0.028651602566242218,train
+source_dataset:CAMA-1,Erlotinib,,,0.0246328130540226,0.02352728135883808,train
+source_dataset:NCI-H2023,Erlotinib,,,0.0870547649328015,0.07555090636014938,train
+source_dataset:BxPC-3,Erlotinib,,,0.0563746041905324,0.04094143956899643,train
+source_dataset:ESO-51,Erlotinib,,,0.0124127333268565,0.00850069522857666,train
+source_dataset:EB3 [Human Burkitt lymphoma],Erlotinib,,,0.0069792245838784,0.033976960927248,train
+source_dataset:SW982,Erlotinib,,,0.0795567448009129,0.05318981036543846,train
+source_dataset:HuO-3N1,Erlotinib,,,0.057874772605626,0.03848414868116379,train
+source_dataset:SJNB-14,Erlotinib,,,0.0677168554420596,-0.005441788583993912,train
+source_dataset:DU4475,Erlotinib,,,0.0079425903526871,0.0010797674767673016,train
+source_dataset:A3/Kawakami,Erlotinib,,,0.0884623587956531,0.07587134838104248,train
+source_dataset:MMAc-SF,Erlotinib,,,,0.053953494876623154,train
+source_dataset:SIG-M5,Erlotinib,,,,0.04416307806968689,train
+source_dataset:J82,Erlotinib,,,0.0940096442583044,0.0846739113330841,train
+source_dataset:8505C,Erlotinib,,,0.092085275399657,0.0721932053565979,train
+source_dataset:UO-31,Erlotinib,,,,0.1372571587562561,train
+source_dataset:Ca9-22,Erlotinib,,,0.204540945326937,0.18773038685321808,train
+source_dataset:NCI-H1573,Erlotinib,,,0.192579755266309,0.09422583878040314,train
+source_dataset:NCI-H1395,Erlotinib,,,,0.09912670403718948,train
+source_dataset:EPLC-272H,Erlotinib,,,0.0863106388253209,0.16344739496707916,train
+source_dataset:SK-CO-1,Erlotinib,,,0.0924104278455634,0.09128231555223465,train
+source_dataset:JAR,Erlotinib,,,,0.11883998662233353,train
+source_dataset:CRO-AP2,Erlotinib,,,,0.05125359445810318,train
+source_dataset:KYSE-50,Erlotinib,,,0.10340162463889,0.08719904720783234,train
+source_dataset:RD,Erlotinib,,,0.0136657485252508,0.017072489485144615,train
+source_dataset:NCI-H1792,Erlotinib,,,0.0700180510383056,0.06689617037773132,train
+source_dataset:HCC1428,Erlotinib,,,0.0135815142455998,0.015854204073548317,train
+source_dataset:RERF-LC-MS,Erlotinib,,,,0.05426183342933655,train
+source_dataset:SNU-C2B,Erlotinib,,,0.0523432296564404,0.04479605704545975,train
+source_dataset:Lu-134-A,Erlotinib,,,,0.06037288159132004,train
+source_dataset:TYK-nu,Erlotinib,,,0.142568600415575,0.1205463856458664,train
+source_dataset:NCI-H3118,Erlotinib,,,0.226680918545458,0.030080659314990044,train
+source_dataset:SKG-IIIa,Erlotinib,,,0.0655967582819898,0.04886966943740845,train
+source_dataset:Hs 445,Erlotinib,,,0.142339764859453,0.12715741991996765,train
+source_dataset:ES5,Erlotinib,,,,0.038450270891189575,train
+source_dataset:NCC-IT,Erlotinib,,,0.101556684642595,0.0903572365641594,train
+source_dataset:COR-L105,Erlotinib,,,0.268863948696116,0.246662437915802,train
+source_dataset:MOG-G-UVW,Erlotinib,,,0.0546140902881339,0.05124518647789955,train
+source_dataset:UACC-62,Erlotinib,,,0.0049190319731272,0.0022176834754645824,train
+source_dataset:Panc 08.13,Erlotinib,,,0.108378858569174,0.0973501056432724,train
+source_dataset:HCC-56,Erlotinib,,,,0.03513046354055405,train
+source_dataset:RPMI-8226,Erlotinib,,,0.0257653376591053,0.026248686015605927,train
+source_dataset:SU-DHL-6,Erlotinib,,,0.0,0.0004952680319547653,train
+source_dataset:SU.86.86,Erlotinib,,,0.137280272336242,0.11785848438739777,train
+source_dataset:LB831-BLC,Erlotinib,,,0.0091927530250769,0.010703356936573982,train
+source_dataset:SUP-B15,Erlotinib,,,0.0363418132641476,0.04214387387037277,train
+source_dataset:Lu-65,Erlotinib,,,0.0421422664636563,0.08105116337537766,train
+source_dataset:NCI-H1869,Erlotinib,,,0.199080743165032,0.1780419796705246,train
+source_dataset:LCLC-103H,Erlotinib,,,0.0,-0.006882218644022942,train
+source_dataset:TOV-112D,Erlotinib,,,0.0485836295441545,0.04096730053424835,train
+source_dataset:COR-L321,Erlotinib,,,,0.019122883677482605,train
+source_dataset:WSU-DLCL2,Erlotinib,,,0.0712472440111968,0.06455017626285553,train
+source_dataset:Mel Ho,Erlotinib,,,,0.05047040805220604,train
+source_dataset:PCI-38,Erlotinib,,,,0.1881362497806549,train
+source_dataset:SW1783,Erlotinib,,,0.0304955295549922,0.03767715394496918,train
+source_dataset:NCI-H1838,Erlotinib,,,0.0082476617604919,0.031095700338482857,train
+source_dataset:8305C,Erlotinib,,,0.0583719777550647,0.04531393572688103,train
+source_dataset:TE-1,Erlotinib,,,0.24495911814687,0.045464105904102325,train
+source_dataset:JSC-1,Erlotinib,,,0.0607022749035168,0.05248437076807022,train
+source_dataset:SW872,Erlotinib,,,0.0402193448068389,0.09223361313343048,train
+source_dataset:CML-T1,Erlotinib,,,0.104949347378575,0.09595339000225067,train
+source_dataset:IGR-1,Erlotinib,,,0.0285604503652354,0.020976614207029343,train
+source_dataset:Granta-519,Erlotinib,,,0.0421611880942024,0.048812322318553925,train
+source_dataset:SF126,Erlotinib,,,,0.04468366131186485,train
+source_dataset:G-402,Erlotinib,,,0.02499781115547,0.03659097105264664,train
+source_dataset:LN-405,Erlotinib,,,0.0372783305977369,0.009096497669816017,train
+source_dataset:JeKo-1,Erlotinib,,,,0.0820387452840805,train
+source_dataset:SK-MG-1,Erlotinib,,,0.070433864693999,0.008921138942241669,train
+source_dataset:CAL-33,Erlotinib,,,0.147200557554402,0.10883878171443939,train
+source_dataset:NCI-H2818,Erlotinib,,,0.0595694345823773,0.0479562021791935,train
+source_dataset:8-MG-BA,Erlotinib,,,0.07098349805725,0.05163245648145676,train
+source_dataset:PSN1,Erlotinib,,,0.0950952740174571,0.07404188811779022,train
+source_dataset:MEG-01,Erlotinib,,,0.0448055119491091,0.04238085448741913,train
+source_dataset:HH [Human lymphoma],Erlotinib,,,0.0,0.005444936919957399,train
+source_dataset:SK-MEL-5,Erlotinib,,,,0.15482600033283234,train
+source_dataset:ML-2,Erlotinib,,,0.0,0.004825541749596596,train
+source_dataset:MOLM-13,Erlotinib,,,0.214342993596823,0.03445255011320114,train
+source_dataset:HPAC,Erlotinib,,,0.110952557238013,0.1389949470758438,train
+source_dataset:KYSE-450,Erlotinib,,,0.249714247870949,0.16979950666427612,train
+source_dataset:NCI-H2810,Erlotinib,,,,0.007894281297922134,train
+source_dataset:U-118MG,Erlotinib,,,0.119465027465257,0.07504789531230927,train
+source_dataset:NCI-H1993,Erlotinib,,,0.023961971285734,0.024498745799064636,train
+source_dataset:JURL-MK1,Erlotinib,,,,0.05747004598379135,train
+source_dataset:SK-LU-1,Erlotinib,,,0.0144374728266127,0.023130543529987335,train
+source_dataset:TGBC1TKB,Erlotinib,,,0.0510358676524416,0.049650438129901886,train
+source_dataset:LCLC-97TM1,Erlotinib,,,0.0013339044742636,0.00302118225954473,train
+source_dataset:AM-38,Erlotinib,,,0.0096849709655602,0.023764368146657944,train
+source_dataset:CL-11,Erlotinib,,,0.040386488883719,0.04047247767448425,train
+source_dataset:GI-ME-N,Erlotinib,,,0.108736093276118,0.10077956318855286,train
+source_dataset:NCI-H196,Erlotinib,,,0.10600839913528,0.08988150954246521,train
+source_dataset:Ishikawa (Heraklio) 02 ER-,Erlotinib,,,,0.16092893481254578,train
+source_dataset:WM1552C,Erlotinib,,,0.0585060517248444,0.04476814344525337,train
+source_dataset:WM278,Erlotinib,,,0.0870718513006164,0.06586112827062607,train
+source_dataset:HOP-62,Erlotinib,,,0.0433444639744941,0.035658907145261765,train
+source_dataset:Evsa-T,Erlotinib,,,0.0849955346890464,0.04021725803613663,train
+source_dataset:JHOS-3,Erlotinib,,,,0.058891113847494125,train
+source_dataset:KYSE-180,Erlotinib,,,0.119754944709697,0.10822795331478119,train
+source_dataset:G-361,Erlotinib,,,0.105127007221735,0.07510773092508316,train
+source_dataset:NCI-H290,Erlotinib,,,,0.06979779154062271,train
+source_dataset:SW1463,Erlotinib,,,0.148997158031401,0.10054612159729004,train
+source_dataset:SJNB-5,Erlotinib,,,,0.17177924513816833,train
+source_dataset:NCI-H740,Erlotinib,,,,0.025752216577529907,train
+source_dataset:HCC1806,Erlotinib,,,0.173135587844158,0.074742391705513,train
+source_dataset:NCI-H187,Erlotinib,,,,0.06602057069540024,train
+source_dataset:YAPC,Erlotinib,,,0.0328340635477832,0.022649887949228287,train
+source_dataset:T.T,Erlotinib,,,0.21910539921644,0.1857471466064453,train
+source_dataset:SCC-25,Erlotinib,,,,0.05226244777441025,train
+source_dataset:NCI-H226,Erlotinib,,,0.0782171140782092,0.11314213275909424,train
+source_dataset:NCI-H2804,Erlotinib,,,,0.10893073678016663,train
+source_dataset:MOG-G-CCM,Erlotinib,,,0.0469043609581894,0.027898412197828293,train
+source_dataset:NCI-H647,Erlotinib,,,,0.14364665746688843,train
+source_dataset:A-549,Erlotinib,,,0.0935847359989765,0.07926732301712036,train
+source_dataset:SF539,Erlotinib,,,0.107097156485175,0.06940963864326477,train
+source_dataset:Loucy,Erlotinib,,,0.126722763442359,0.11232127994298935,train
+source_dataset:SK-N-FI,Erlotinib,,,0.0525931882768546,0.042919714003801346,train
+source_dataset:IHH-4,Erlotinib,,,0.0201408053699505,0.020377036184072495,train
+source_dataset:WIL2 NS,Erlotinib,,,0.171227206782087,0.13932405412197113,train
+source_dataset:JHU-022,Erlotinib,,,0.214987249513701,0.17983216047286987,train
+source_dataset:SK-OV-3,Erlotinib,,,0.139086315500833,0.1265219748020172,train
+source_dataset:NCI-H524,Erlotinib,,,0.0,0.012937655672430992,train
+source_dataset:NCI-H2170,Erlotinib,,,0.171830451523502,0.1312587410211563,train
+source_dataset:TE-8,Erlotinib,,,0.130460736949492,0.12472810596227646,train
+source_dataset:C-4-I,Erlotinib,,,0.160022061890954,0.14780178666114807,train
+source_dataset:DMS 79,Erlotinib,,,,0.09890247881412506,train
+source_dataset:MHH-CALL-2,Erlotinib,,,0.0751423697545903,0.06841413676738739,train
+source_dataset:ST486,Erlotinib,,,0.0547454358938863,0.06960085779428482,train
+source_dataset:OVCA420,Erlotinib,,,0.310602062917482,0.07850007712841034,train
+source_dataset:NEC8,Erlotinib,,,0.0012684642053307,0.014912277460098267,train
+source_dataset:HCC2157,Erlotinib,,,0.0144902251480115,0.01350411307066679,train
+source_dataset:D-423MG,Erlotinib,,,,0.07792986929416656,train
+source_dataset:SNU-C5,Erlotinib,,,0.117986023161339,0.11401785910129547,train
+source_dataset:U2OS,Erlotinib,,,0.0511732691915273,0.04162014275789261,train
+source_dataset:P30/OHK,Erlotinib,,,0.153037674252343,0.04017830267548561,train
+source_dataset:KLE,Erlotinib,,,0.0713855462126308,0.06006022170186043,train
+source_dataset:DSH1,Erlotinib,,,0.0676128774186015,0.05565750598907471,train
+source_dataset:BFTC-909,Erlotinib,,,0.109937893184019,0.08833887428045273,train
+source_dataset:ABC-1,Erlotinib,,,,0.14244943857192993,train
+source_dataset:IST-SL2,Erlotinib,,,0.119476615754353,0.09880998730659485,train
+source_dataset:EKVX,Erlotinib,,,,0.20567405223846436,train
+source_dataset:NCI-H1876,Erlotinib,,,0.0935765511185332,0.07581968605518341,train
+source_dataset:A101D,Erlotinib,,,0.104497988900457,0.08443360775709152,train
+source_dataset:Raji,Erlotinib,,,0.0733339353722573,0.0702124685049057,train
+source_dataset:OSC-20,Erlotinib,,,0.0982350962791393,0.08262668550014496,train
+source_dataset:SK-N-AS,Erlotinib,,,0.0344715462871217,0.034642916172742844,train
+source_dataset:SK-MEL-1,Erlotinib,,,0.0,-0.011299766600131989,train
+source_dataset:OCI-M1,Erlotinib,,,0.0956499355319419,0.09936098754405975,train
+source_dataset:EW-7,Erlotinib,,,0.0644143306424488,0.08849765360355377,train
+source_dataset:JHOS-4,Erlotinib,,,,0.10591256618499756,train
+source_dataset:IST-Mes1,Erlotinib,,,0.0341406357450479,0.03612782061100006,train
+source_dataset:SUP-M2,Erlotinib,,,0.256168920942005,0.236134871840477,train
+source_dataset:SH-4,Erlotinib,,,0.0228226535279997,0.030556481331586838,train
+source_dataset:Panc 10.05,Erlotinib,,,0.0621658606084283,0.06420643627643585,train
+source_dataset:SNU-423,Erlotinib,,,0.0488882250812953,0.05979635566473007,train
+source_dataset:HTC-C3,Erlotinib,,,0.0786803166590527,0.019973868504166603,train
+source_dataset:SJNB-12,Erlotinib,,,0.0719562411144742,0.04312567412853241,train
+source_dataset:BT-549,Erlotinib,,,0.00242119823243,0.019212421029806137,train
+source_dataset:Caov-4,Erlotinib,,,0.119977129986767,0.11696688830852509,train
+source_dataset:SNU-475,Erlotinib,,,,0.09078098088502884,train
+source_dataset:NOS-1 [Human osteosarcoma],Erlotinib,,,0.0614490277665353,0.04505856707692146,train
+source_dataset:NCI-H446,Erlotinib,,,0.0792726947984858,0.06854460388422012,train
+source_dataset:SW684,Erlotinib,,,0.0549753282567146,0.04855504259467125,train
+source_dataset:T-47D,Erlotinib,,,0.138447567826433,0.1337888091802597,train
+source_dataset:NCI-H1755,Erlotinib,,,0.11048678335709,0.1925066113471985,train
+source_dataset:Caki-1,Erlotinib,,,,0.11312060058116913,train
+source_dataset:A-172,Erlotinib,,,0.0395475949424443,0.03951488807797432,train
+source_dataset:5637,Erlotinib,,,0.169288575879552,0.13979226350784302,train
+source_dataset:OVTOKO,Erlotinib,,,0.0820526104188584,0.163474440574646,train
+source_dataset:ES3,Erlotinib,,,,0.057492759078741074,train
+source_dataset:TC-71,Erlotinib,,,0.0054436845187035,0.013418346643447876,train
+source_dataset:NCI-H2405,Erlotinib,,,0.132835476981883,0.013422074727714062,train
+source_dataset:NCI-H2029,Erlotinib,,,,0.041555438190698624,train
+source_dataset:EFM-192A,Erlotinib,,,0.108941221293139,0.09363332390785217,train
+source_dataset:NCI-H1568,Erlotinib,,,0.273214668202033,0.24193650484085083,train
+source_dataset:COLO 680N,Erlotinib,,,0.0566319333500966,0.15228435397148132,train
+source_dataset:G-292 clone A141B1,Erlotinib,,,0.0571404710944169,0.04067324846982956,train
+source_dataset:MIA PaCa-2,Erlotinib,,,0.0201268815055295,0.06239454448223114,train
+source_dataset:ESS-1,Erlotinib,,,0.0,0.0049512372352182865,train
+source_dataset:GMS-10,Erlotinib,,,,0.04714338481426239,train
+source_dataset:PC-14,Erlotinib,,,0.452159505723895,0.41541677713394165,train
+source_dataset:PFSK-1,Erlotinib,,,0.0398641673547789,0.02990952506661415,train
+source_dataset:Rh30,Erlotinib,,,0.179663987330051,0.15203143656253815,train
+source_dataset:LXF 289,Erlotinib,,,0.104198091853069,0.10603760182857513,train
+source_dataset:COLO 824,Erlotinib,,,0.140789145236246,0.1079767644405365,train
+source_dataset:HPAF-II,Erlotinib,,,0.0937254950143958,0.08687739819288254,train
+source_dataset:SW1116,Erlotinib,,,0.104329627400967,0.091001957654953,train
+source_dataset:SK-MEL-31,Erlotinib,,,,0.025244930759072304,train
+source_dataset:Lu-135,Erlotinib,,,0.0,-1.180265098810196e-05,train
+source_dataset:PEO1,Erlotinib,,,0.0514665954698071,0.041416749358177185,train
+source_dataset:NCI-H2085,Erlotinib,,,0.0125611764920104,0.006748334504663944,train
+source_dataset:NCI-H929,Erlotinib,,,0.0,0.0060227117501199245,train
+source_dataset:CGTH-W-1,Erlotinib,,,0.0294210175555731,0.02828608639538288,train
+source_dataset:OACP4 C,Erlotinib,,,0.136186579722132,0.10659047216176987,train
+source_dataset:ME-1 [Human leukemia],Erlotinib,,,0.006385161152713,0.004828495439141989,train
+source_dataset:CCRF-CEM,Erlotinib,,,0.0223111097402942,0.09697440266609192,train
+source_dataset:BE-13,Erlotinib,,,0.147781534990873,0.11739867180585861,train
+source_dataset:CHP-126,Erlotinib,,,,0.06573184579610825,train
+source_dataset:RERF-LC-Sq1,Erlotinib,,,0.182647329576836,0.16713884472846985,train
+source_dataset:U-251MG,Erlotinib,,,0.112490998886677,0.09071202576160431,train
+source_dataset:NCI-H2030,Erlotinib,,,,0.07258939743041992,train
+source_dataset:NCI-H1048,Erlotinib,,,0.0682661724522308,0.04208163917064667,train
+source_dataset:EW-12,Erlotinib,,,,0.05500759184360504,train
+source_dataset:MKN1,Erlotinib,,,0.122706725346073,0.11667938530445099,train
+source_dataset:CHP-212,Erlotinib,,,0.046777617733772,0.055664606392383575,train
+source_dataset:NKM-1,Erlotinib,,,0.0506030301986578,0.04289780557155609,train
+source_dataset:OSC-19,Erlotinib,,,,0.18808938562870026,train
+source_dataset:HCC1143,Erlotinib,,,0.108284855361742,0.10612137615680695,train
+source_dataset:MHH-CALL-4,Erlotinib,,,,0.054353855550289154,train
+source_dataset:DMS 114,Erlotinib,,,0.0603905594952663,0.05668982118368149,train
+source_dataset:COLO 668,Erlotinib,,,0.0790778537501245,0.07101405411958694,train
+source_dataset:SU-DHL-16,Erlotinib,,,,0.04509527236223221,train
+source_dataset:BEN,Erlotinib,,,,0.07202781736850739,train
+source_dataset:NCI-H211,Erlotinib,,,0.0427341905043995,0.04542330652475357,train
+source_dataset:PaTu 8902,Erlotinib,,,0.0854323925235562,0.07512529194355011,train
+source_dataset:HEY,Erlotinib,,,0.156574099490733,0.08264470100402832,train
+source_dataset:NCI-H2110,Erlotinib,,,,0.07072019577026367,train
+source_dataset:NCI-H650,Erlotinib,,,0.0,-0.005846387706696987,train
+source_dataset:NUGC-4,Erlotinib,,,0.155029893754217,0.1353352665901184,train
+source_dataset:A-253,Erlotinib,,,0.0567319696361276,0.0485912561416626,train
+source_dataset:Kasumi-1,Erlotinib,,,,0.023416530340909958,train
+source_dataset:NCI-H2342,Erlotinib,,,0.0755230221011622,0.07026507705450058,train
+source_dataset:ACHN,Erlotinib,,,0.242758493301892,0.21228668093681335,train
+source_dataset:HD-MY-Z,Erlotinib,,,0.0196507805081226,0.014448478817939758,train
+source_dataset:NCI-H2228,Erlotinib,,,0.0092715175513845,0.0005813504103571177,train
+source_dataset:SW900,Erlotinib,,,0.034436098184516,0.03542757034301758,train
+source_dataset:LC-2/ad,Erlotinib,,,,0.1193951964378357,train
+source_dataset:CESS,Erlotinib,,,0.0780213306605076,0.08119495958089828,train
+source_dataset:SU-DHL-1,Erlotinib,,,,0.14511753618717194,train
+source_dataset:SJNB-6,Erlotinib,,,,0.10386709123849869,train
+source_dataset:A-498,Erlotinib,,,0.0360519945417917,0.02090245671570301,train
+source_dataset:AsPC-1,Erlotinib,,,0.043721247078965,0.03602074831724167,train
+source_dataset:HGC-27,Erlotinib,,,0.100834704079118,0.08925020694732666,train
+source_dataset:L-363,Erlotinib,,,0.050039350294266,0.04972751811146736,train
+source_dataset:SJSA-1,Erlotinib,,,0.0481652746915327,0.03179619833827019,train
+source_dataset:647V,Erlotinib,,,0.117054677893993,0.10342439264059067,train
+source_dataset:HEC-1,Erlotinib,,,0.0870761859380532,0.09716866910457611,train
+source_dataset:PL18 [Human pancreatic adenocarcinoma],Erlotinib,,,0.0023096478225083,0.006922156549990177,train
+source_dataset:Onda 10,Erlotinib,,,,0.03975725919008255,train
+source_dataset:DOV13,Erlotinib,,,0.004497153275315,0.017453478649258614,train
+source_dataset:Rh41,Erlotinib,,,0.0,0.021740710362792015,train
+source_dataset:RPMI-8402,Erlotinib,,,0.122914552817911,0.09174442291259766,train
+source_dataset:HCC44,Erlotinib,,,0.0,0.0734034851193428,train
+source_dataset:PCI-04B,Erlotinib,,,,0.1262720227241516,train
+source_dataset:PA-1,Erlotinib,,,0.126645238104914,0.12377311289310455,train
+source_dataset:NB(TU)1,Erlotinib,,,0.112469509484137,0.07818231731653214,train
+source_dataset:HCC366,Erlotinib,,,,0.14377319812774658,train
+source_dataset:MKN7,Erlotinib,,,0.128914335995254,0.1150035485625267,train
+source_dataset:NCI-H596,Erlotinib,,,0.0035515206362329,0.01260658260434866,train
+source_dataset:ES7,Erlotinib,,,0.0459226900447545,0.043688274919986725,train
+source_dataset:D-502MG,Erlotinib,,,,0.181579127907753,train
+source_dataset:SCC-9,Erlotinib,,,0.102543133028613,0.08924411237239838,train
+source_dataset:D-336MG,Erlotinib,,,,0.049296535551548004,train
+source_dataset:NCI-H2731,Erlotinib,,,0.0599396397291209,0.04408848285675049,train
+source_dataset:DOK,Erlotinib,,,0.352487709036072,0.32256650924682617,train
+source_dataset:SW954,Erlotinib,,,,0.032723136246204376,train
+source_dataset:KTCTL-1M,Erlotinib,,,,0.03244447335600853,train
+source_dataset:MZ-PC-1,Erlotinib,,,,0.16004173457622528,train
+source_dataset:CCK-81,Erlotinib,,,0.249107056254474,0.22953635454177856,train
+source_dataset:OVCAR-5,Erlotinib,,,0.0582889736499988,0.04140521213412285,train
+source_dataset:KP-2,Erlotinib,,,0.0467378301347353,0.03556446358561516,train
+source_dataset:LAMA-84,Erlotinib,,,0.0271987461480035,0.037229087203741074,train
+source_dataset:MN-60,Erlotinib,,,0.0095499532284566,0.01743030548095703,train
+source_dataset:NCI-H2227,Erlotinib,,,,0.01831015571951866,train
+source_dataset:NCI-H358,Erlotinib,,,0.104499094059769,0.07327096909284592,train
+source_dataset:CAL-54,Erlotinib,,,0.279145726458474,0.23903831839561462,train
+source_dataset:DoTc2 4510,Erlotinib,,,0.149679209935105,0.13559599220752716,train
+source_dataset:PL-21,Erlotinib,,,,0.018870417028665543,train
+source_dataset:TT,Erlotinib,,,0.0546793713530746,0.04455989599227905,train
+source_dataset:MFM-223,Erlotinib,,,0.0643079792256542,0.05452068895101547,train
+source_dataset:CAL-51,Erlotinib,,,0.113261334134565,0.10346905887126923,train
+source_dataset:42-MG-BA,Erlotinib,,,0.0786749219433623,0.06704636663198471,train
+source_dataset:KINGS-1,Erlotinib,,,0.0277240325108469,0.016731223091483116,train
+source_dataset:A2780,Erlotinib,,,0.0480173825975849,0.03572345897555351,train
+source_dataset:IA-LM,Erlotinib,,,0.0,4.4031767174601555e-06,train
+source_dataset:RCH-ACV,Erlotinib,,,,0.05796830356121063,train
+source_dataset:PCI-06A,Erlotinib,,,,0.14638763666152954,train
+source_dataset:NCI-H1304,Erlotinib,,,,0.05024003982543945,train
+source_dataset:COLO 320HSR,Erlotinib,,,0.0018039764489196,0.005353476852178574,train
+source_dataset:SK-N-SH,Erlotinib,,,0.0525748988375155,0.055871203541755676,train
+source_dataset:T98G,Erlotinib,,,0.019287134082367,0.08730877190828323,train
+source_dataset:L-428,Erlotinib,,,0.14828163795543,0.13586901128292084,train
+source_dataset:MFH-ino,Erlotinib,,,0.0713558242089594,0.08799288421869278,train
+source_dataset:CaR-1,Erlotinib,,,0.0671094455741473,0.07452025264501572,train
+source_dataset:MZ-MEL-2,Erlotinib,,,,0.060018572956323624,train
+source_dataset:MOLT-4,Erlotinib,,,0.0657527879266316,0.0286080464720726,train
+source_dataset:AN3-CA,Erlotinib,,,0.0073317966203445,0.07709147781133652,train
+source_dataset:SK-PN-DW,Erlotinib,,,0.0346463890630108,0.024046923965215683,train
+source_dataset:BV-173,Erlotinib,,,0.027744125820815,0.03835775703191757,train
+source_dataset:GDM-1,Erlotinib,,,0.0441451619936476,0.03169914335012436,train
+source_dataset:BICR 78,Erlotinib,,,0.123752385775983,0.10244765877723694,train
+source_dataset:SW780,Erlotinib,,,0.0322095370481603,0.03081590309739113,train
+source_dataset:NCI-H345,Erlotinib,,,,0.08593524247407913,train
+source_dataset:SCC-3,Erlotinib,,,0.0260266371418896,0.037472665309906006,train
+source_dataset:RF-48,Erlotinib,,,0.0177306393347646,0.04522530362010002,train
+source_dataset:OACM5.1 C,Erlotinib,,,0.00777569371472,0.005340286996215582,train
+source_dataset:CAL-148,Erlotinib,,,0.0795734750613511,0.06735417991876602,train
+source_dataset:SK-N-BE(2)-M17,Erlotinib,,,0.0284500098221096,0.02360353246331215,train
+source_dataset:ML-1 [Human thyroid carcinoma],Erlotinib,,,,0.07527700811624527,train
+source_dataset:COR-L303,Erlotinib,,,,0.016463257372379303,train
+source_dataset:NCI-H2087,Erlotinib,,,0.052555593518512,0.0970502644777298,train
+source_dataset:Hep 3B2.1-7,Erlotinib,,,,0.05743762105703354,train
+source_dataset:23132/87,Erlotinib,,,0.124365748778342,0.11918873339891434,train
+source_dataset:SK-ES-1,Erlotinib,,,0.0452437822645147,0.017376143485307693,train
+source_dataset:MKN28,Erlotinib,,,0.0592391727682757,0.03596878796815872,train
+source_dataset:NCI-H847,Erlotinib,,,0.0995181534799839,0.1001841202378273,train
+source_dataset:OCI-AML-5,Erlotinib,,,,0.025742406025528908,train
+source_dataset:COLO 205,Erlotinib,,,0.0344152288339466,0.025399623438715935,train
+source_dataset:KALS-1,Erlotinib,,,0.0632975022632326,0.03705941513180733,train
+source_dataset:EW-13,Erlotinib,,,0.0648117478076204,0.06215796619653702,train
+source_dataset:SNB-75,Erlotinib,,,,0.06338590383529663,train
+source_dataset:Capan-1,Erlotinib,,,0.112619909233223,0.09589593857526779,train
+source_dataset:IST-MEL1,Erlotinib,,,0.0033780002246665,0.043762125074863434,train
+source_dataset:COR-L88,Erlotinib,,,0.0257483065537889,0.06881862133741379,train
+source_dataset:MDA-MB-415,Erlotinib,,,0.0761312973174855,0.06827536225318909,train
+source_dataset:ROS-50,Erlotinib,,,,0.010262418538331985,train
+source_dataset:H-EMC-SS,Erlotinib,,,0.0168334848716047,0.03918328508734703,train
+source_dataset:KMS-11,Erlotinib,,,,0.04802866280078888,train
+source_dataset:NCI-H1770,Erlotinib,,,,0.055854666978120804,train
+source_dataset:SW1990,Erlotinib,,,0.0502602780380748,0.14407122135162354,train
+source_dataset:LOU-NH91,Erlotinib,,,0.293498779775004,0.04478606581687927,train
+source_dataset:HSC-2,Erlotinib,,,0.127043457422862,0.12021826207637787,train
+source_dataset:COR-L95,Erlotinib,,,,0.035798635333776474,train
+source_dataset:CAL-85-1,Erlotinib,,,0.010184268776168,0.005168684758245945,train
+source_dataset:SW756,Erlotinib,,,0.119997255101409,0.10754430294036865,train
+source_dataset:DAN-G,Erlotinib,,,0.0322253806181245,0.03129267692565918,train
+source_dataset:BICR 31,Erlotinib,,,,0.021587328985333443,train
+source_dataset:BONNA-12,Erlotinib,,,,0.05433284491300583,train
+source_dataset:NOMO-1,Erlotinib,,,0.0052043625154754,0.018643800169229507,train
+source_dataset:MV4-11,Erlotinib,,,0.107636054788667,0.10422360152006149,train
+source_dataset:JHH-7,Erlotinib,,,0.0473026499509979,0.05890542268753052,train
+source_dataset:SW1417,Erlotinib,,,0.0616228424266736,0.04633747413754463,train
+source_dataset:DMS 273,Erlotinib,,,0.102115627919852,0.05180332064628601,train
+source_dataset:BT-20,Erlotinib,,,0.0817037264949738,0.07825257629156113,train
+source_dataset:COLO 829,Erlotinib,,,0.121922623633159,0.07900083065032959,train
+source_dataset:MeWo,Erlotinib,,,0.0031589482683064,0.006974184885621071,train
+source_dataset:EW-16,Erlotinib,,,0.118206030551039,0.10505862534046173,train
+source_dataset:Lu-99A,Erlotinib,,,0.0817337449158928,0.076274074614048,train
+source_dataset:SNU-407,Erlotinib,,,0.084428497830345,0.06299739331007004,train
+source_dataset:D-247MG,Erlotinib,,,,0.01992422342300415,train
+source_dataset:CAL-78,Erlotinib,,,0.0105503469679929,0.008634757250547409,train
+source_dataset:SNU-398,Erlotinib,,,0.152618717302194,0.008622870780527592,train
+source_dataset:A-427,Erlotinib,,,,0.04164696857333183,train
+source_dataset:VAL,Erlotinib,,,0.00348165334328,0.02912338450551033,train
+source_dataset:NCI-H2373,Erlotinib,,,0.0845398529475579,0.07434016466140747,train
+source_dataset:KTCTL-140,Erlotinib,,,,0.05563271790742874,train
+source_dataset:COLO 741,Erlotinib,,,,-0.023582130670547485,train
+source_dataset:EGI-1,Erlotinib,,,0.0577193017282214,0.04965862259268761,train
+source_dataset:Panc 02.03,Erlotinib,,,0.136873068382958,0.12245874106884003,train
+source_dataset:C2BBe1,Erlotinib,,,0.127898920888731,0.08593762665987015,train
+source_dataset:ALL-PO,Erlotinib,,,0.0294064649039689,0.07134746760129929,train
+source_dataset:LC4-1,Erlotinib,,,0.0472470709877311,0.03528231754899025,train
+source_dataset:MRK-nu-1,Erlotinib,,,0.0143790050022087,0.12296496331691742,train
+source_dataset:PE/CA-PJ15,Erlotinib,,,,0.12562838196754456,train
+source_dataset:GCT,Erlotinib,,,0.0222649226482903,0.022737890481948853,train
+source_dataset:NCI-H2122,Erlotinib,,,0.185106769237845,0.1577000617980957,train
+source_dataset:EW-22,Erlotinib,,,0.0334673771211867,0.03513092175126076,train
+source_dataset:A-204,Erlotinib,,,0.0917657328597508,0.07266030460596085,train
+source_dataset:NCI-H1650,Erlotinib,,,0.241513676497569,0.05493112653493881,train
+source_dataset:PCI-30,Erlotinib,,,0.0893290627546091,0.08484400063753128,train
+source_dataset:BFTC-905,Erlotinib,,,0.0031122253380978,0.028774509206414223,train
+source_dataset:MHH-PREB-1,Erlotinib,,,0.0845859251173788,0.09127277880907059,train
+source_dataset:SK-MEL-28,Erlotinib,,,,0.04926826059818268,train
+source_dataset:MFE-296,Erlotinib,,,0.0914554608632348,0.0753193348646164,train
+source_dataset:NCI-H522,Erlotinib,,,0.0329517388870634,0.036958564072847366,train
+source_dataset:OV56,Erlotinib,,,0.0191931304917998,0.015104327350854874,train
+source_dataset:Rh1,Erlotinib,,,0.164602790314206,0.1610557585954666,train
+source_dataset:Ramos.2G6.4C10,Erlotinib,,,0.0370244930004005,0.04469139128923416,train
+source_dataset:CADO-ES1,Erlotinib,,,0.211490936732689,0.19803541898727417,train
+source_dataset:NCI-H841,Erlotinib,,,0.112861159454981,0.1237720251083374,train
+source_dataset:KM-H2,Erlotinib,,,0.0232652101478193,0.05286680534482002,train
+source_dataset:OVKATE,Erlotinib,,,0.182847413523017,0.16213077306747437,train
+source_dataset:SJNB-17,Erlotinib,,,,0.09145112335681915,train
+source_dataset:Hs 683,Erlotinib,,,,0.04313303530216217,train
+source_dataset:NCI-H378,Erlotinib,,,,0.0773385763168335,train
+source_dataset:COR-L311,Erlotinib,,,0.0,-0.005612479522824287,train
+source_dataset:COLO 792,Erlotinib,,,0.0381581212939412,0.04451858624815941,train
+source_dataset:KTCTL-195,Erlotinib,,,0.0403797791007142,0.03550116345286369,train
+source_dataset:RL95-2,Erlotinib,,,0.0956410613939381,0.09872113168239594,train
+source_dataset:NCI-H1944,Erlotinib,,,0.155340015648853,0.14779892563819885,train
+source_dataset:KM12,Erlotinib,,,0.113994160484336,0.11084847897291183,train
+source_dataset:HCC1954,Erlotinib,,,0.0585551282765103,0.06259394437074661,train
+source_dataset:TE-4,Erlotinib,,,0.0161135386632425,-0.0042590005323290825,train
+source_dataset:MHH-NB-11,Erlotinib,,,,0.06841109693050385,train
+source_dataset:HCC70,Erlotinib,,,0.0858751509327831,0.060884732753038406,train
+source_dataset:NCI-H2196,Erlotinib,,,,0.024533424526453018,train
+source_dataset:BHT-101,Erlotinib,,,0.0765781940412945,0.05775510147213936,train
+source_dataset:LA-N-6,Erlotinib,,,,0.022229298949241638,train
+source_dataset:SK-GT-2,Erlotinib,,,0.217441252798054,0.22401899099349976,train
+source_dataset:ATN-1,Erlotinib,,,0.010383378654109,0.009316762909293175,train
+source_dataset:Karpas-45,Erlotinib,,,0.0755587520322391,0.09710273146629333,train
+source_dataset:SAT [Human HNSCC],Erlotinib,,,0.114990441963396,0.10949306190013885,train
+source_dataset:D-392MG,Erlotinib,,,0.057823574535457,0.05617234855890274,train
+source_dataset:SW1271,Erlotinib,,,0.0224796423109251,0.03200780972838402,train
+source_dataset:IGROV-1,Erlotinib,,,0.268742637592148,0.2568255364894867,train
+source_dataset:IM95,Erlotinib,,,0.0274068476072798,0.036935050040483475,train
+source_dataset:OVK18,Erlotinib,,,,0.1006622314453125,train
+source_dataset:SUP-T1,Erlotinib,,,0.0627601258027626,0.07656178623437881,train
+source_dataset:OVCAR-8,Erlotinib,,,0.0617973859608571,0.06013420969247818,train
+source_dataset:NCI-H1436,Erlotinib,,,,0.03754086419939995,train
+source_dataset:JJN-3,Erlotinib,,,0.0550646092339625,0.03712563216686249,train
+source_dataset:OPM-2,Erlotinib,,,0.0749297493858274,0.06957536190748215,train
+source_dataset:LB2518-MEL,Erlotinib,,,,0.05326089635491371,train
+source_dataset:SK-LMS-1,Erlotinib,,,0.0,-0.0022928928956389427,train
+source_dataset:OCI-Ly19,Erlotinib,,,,0.051137376576662064,train
+source_dataset:HCC1395,Erlotinib,,,0.086298577111973,0.07795557379722595,train
+source_dataset:CMK,Erlotinib,,,,0.02034805715084076,train
+source_dataset:Hs 766T,Erlotinib,,,0.0573225488881899,0.04470299556851387,train
+source_dataset:HuCC-T1,Erlotinib,,,0.15750441624725,0.09731482714414597,train
+source_dataset:P31/FUJ,Erlotinib,,,0.0874294536498871,0.08074671775102615,train
+source_dataset:KYM-1,Erlotinib,,,0.0274897774203326,0.02210712805390358,train
+source_dataset:SK-GT-4,Erlotinib,,,0.143205310701171,0.08740964531898499,train
+source_dataset:ONS-76,Erlotinib,,,0.0261062908301936,0.0061288620345294476,train
+source_dataset:SHP-77,Erlotinib,,,0.0519881491650187,0.04148239269852638,train
+source_dataset:RMG-I,Erlotinib,,,0.225365857533737,0.2283230721950531,train
+source_dataset:TC-YIK,Erlotinib,,,0.104010315132573,0.0984063446521759,train
+source_dataset:NCI-H810,Erlotinib,,,0.0369882402103835,0.035039644688367844,train
+source_dataset:LNZTA3WT4,Erlotinib,,,,0.052797168493270874,train
+source_dataset:SF268,Erlotinib,,,0.0926661417043351,0.0716317743062973,train
+source_dataset:CAL-27,Erlotinib,,,0.164004852490996,0.09075608849525452,train
+target_dataset:SNU-C5,Erlotinib,,,,0.13520416617393494,test
+target_dataset:COLO 205,Erlotinib,,,0.0524329965851902,0.04369077831506729,test
+target_dataset:KLE,Erlotinib,,,0.0871332926716541,0.0750541239976883,test
+target_dataset:Lu-99A,Erlotinib,,,0.0935112861463288,0.06744787842035294,test
+target_dataset:M059K,Erlotinib,,,,0.03525505214929581,test
+target_dataset:OCI-Ly19,Erlotinib,,,,0.06723731011152267,test
+target_dataset:NCI-H1299,Erlotinib,,,0.0626858625403708,0.03286821022629738,test
+target_dataset:SK-N-DZ,Erlotinib,,,0.0023759306412319,0.14291377365589142,test
+target_dataset:MEC-1,Erlotinib,,,0.0084801269519308,0.11314528435468674,test
+target_dataset:NCI-H2228,Erlotinib,,,0.111220297000768,0.038362521678209305,test
+target_dataset:DMS 53,Erlotinib,,,,0.10503928363323212,test
+target_dataset:CAS-1,Erlotinib,,,0.004626415726796,0.06252112984657288,test
+target_dataset:MOLM-16,Erlotinib,,,,0.0657806396484375,test
+target_dataset:NCI-H508,Erlotinib,,,,0.17140930891036987,test
+target_dataset:786-O,Erlotinib,,,0.0173998808952982,0.0848894864320755,test
+target_dataset:CAL-54,Erlotinib,,,,0.24959790706634521,test
+target_dataset:Karpas-422,Erlotinib,,,0.0,0.01513245701789856,test
+target_dataset:ME-1 [Human leukemia],Erlotinib,,,,0.01499953307211399,test
+target_dataset:HLF-a,Erlotinib,,,,0.1155790314078331,test
+target_dataset:NCI-H2342,Erlotinib,,,,0.08889343589544296,test
+target_dataset:HCC1599,Erlotinib,,,,0.03161943331360817,test
+target_dataset:NCI-H2110,Erlotinib,,,,0.09728407859802246,test
+target_dataset:L-428,Erlotinib,,,0.0127463840076556,0.10235524922609329,test
+target_dataset:PC-3,Erlotinib,,,0.0519043608550188,0.006864211056381464,test
+target_dataset:KE-97,Erlotinib,,,0.089743233031866,0.1336265355348587,test
+target_dataset:RPMI-7951,Erlotinib,,,0.0109625104648995,0.0511598214507103,test
+target_dataset:COR-L23,Erlotinib,,,0.0096508432450326,0.07716191560029984,test
+target_dataset:Hs 571.T,Erlotinib,,,,0.08575654029846191,test
+target_dataset:SNU-1272,Erlotinib,,,,0.04835982248187065,test
+target_dataset:OCI-M1,Erlotinib,,,,0.09248708188533783,test
+target_dataset:EB1,Erlotinib,,,0.0057546626057488,0.08028777688741684,test
+target_dataset:U-178MG,Erlotinib,,,,0.0783994272351265,test
+target_dataset:MeWo,Erlotinib,,,0.0,0.0068865325301885605,test
+target_dataset:SNU-620,Erlotinib,,,,0.027413293719291687,test
+target_dataset:MDA-MB-175-VII,Erlotinib,,,0.157212631566185,0.01757984794676304,test
+target_dataset:SK-LU-1,Erlotinib,,,0.0401425137728223,0.025433450937271118,test
+target_dataset:SK-MM-2,Erlotinib,,,0.174156172063407,0.013973262161016464,test
+target_dataset:GSU,Erlotinib,,,,0.04055723920464516,test
+target_dataset:KNS-81-FD,Erlotinib,,,0.0065135250637065,0.0753777027130127,test
+target_dataset:RPMI-8402,Erlotinib,,,0.0186080498394879,0.06262341141700745,test
+target_dataset:KYSE-410,Erlotinib,,,0.0661153584914752,0.1100744679570198,test
+target_dataset:EJM,Erlotinib,,,,0.016039080917835236,test
+target_dataset:Hs 604.T,Erlotinib,,,,0.06403385102748871,test
+target_dataset:PE/CA-PJ15,Erlotinib,,,,0.1779700070619583,test
+target_dataset:COR-L311,Erlotinib,,,,0.015901833772659302,test
+target_dataset:DMS 153,Erlotinib,,,,0.07679044455289841,test
+target_dataset:CFPAC-1,Erlotinib,,,,0.06756874173879623,test
+target_dataset:SBC-5,Erlotinib,,,0.0039550034889971,0.07164228707551956,test
+target_dataset:SNU-213,Erlotinib,,,,0.06135482341051102,test
+target_dataset:NCI-H596,Erlotinib,,,,0.03813616931438446,test
+target_dataset:NCI-H2291,Erlotinib,,,,0.05629648268222809,test
+target_dataset:Hep-G2/C3A,Erlotinib,,,0.0202058023583914,0.05500692129135132,test
+target_dataset:IMR-32,Erlotinib,,,0.0,0.04952053725719452,test
+target_dataset:ST486,Erlotinib,,,,0.05736115202307701,test
+target_dataset:MDA-MB-157,Erlotinib,,,0.0606864748104388,0.09909647703170776,test
+target_dataset:8305C,Erlotinib,,,0.0298521375705681,0.11557015031576157,test
+target_dataset:NCI-H2196,Erlotinib,,,,0.037874169647693634,test
+target_dataset:SUP-B15,Erlotinib,,,,0.050154343247413635,test
+target_dataset:RD-ES,Erlotinib,,,,0.12192966789007187,test
+target_dataset:COLO 679,Erlotinib,,,0.0172851774931118,0.07462864369153976,test
+target_dataset:JM-1,Erlotinib,,,0.0363750000000003,0.05554059520363808,test
+target_dataset:GI-1,Erlotinib,,,0.0218896481720671,0.1440814733505249,test
+target_dataset:PK-45H,Erlotinib,,,0.0409515063862812,0.0724637433886528,test
+target_dataset:K-562,Erlotinib,,,,0.02247764728963375,test
+target_dataset:HCC2218,Erlotinib,,,,0.03464926779270172,test
+target_dataset:RL95-2,Erlotinib,,,0.217167068821168,0.12357904762029648,test
+target_dataset:NCI-H2030,Erlotinib,,,0.153550545307145,0.042290426790714264,test
+target_dataset:SK-MEL-3,Erlotinib,,,,0.07628615200519562,test
+target_dataset:HCC1937,Erlotinib,,,,0.23364955186843872,test
+target_dataset:SCC-15,Erlotinib,,,,0.09422377496957779,test
+target_dataset:Panc 02.03,Erlotinib,,,0.126721659151957,0.12376463413238525,test
+target_dataset:TUHR14TKB,Erlotinib,,,,0.11239699274301529,test
+target_dataset:C2BBe1,Erlotinib,,,0.159842685884974,0.06545066833496094,test
+target_dataset:NCI-H1155,Erlotinib,,,0.0644206799838463,0.14235159754753113,test
+target_dataset:Hs 934.T,Erlotinib,,,,0.07267645001411438,test
+target_dataset:KP-3,Erlotinib,,,0.0353438466747756,0.07015249878168106,test
+target_dataset:MDA-MB-134-VI,Erlotinib,,,,0.023368988186120987,test
+target_dataset:SW579,Erlotinib,,,0.0168461112871541,0.06211350858211517,test
+target_dataset:SCLC-21H,Erlotinib,,,,-0.005973953753709793,test
+target_dataset:OVISE,Erlotinib,,,,0.12410249561071396,test
+target_dataset:PL45,Erlotinib,,,0.0629719252063515,0.09586873650550842,test
+target_dataset:DMS 454,Erlotinib,,,,0.03277569264173508,test
+target_dataset:GCIY,Erlotinib,,,0.165499085189246,0.09773065894842148,test
+target_dataset:NCI-H661,Erlotinib,,,0.0029913890869735,0.025892913341522217,test
+target_dataset:MOLP-8,Erlotinib,,,0.0087589415680787,0.15436695516109467,test
+target_dataset:Hs 616.T,Erlotinib,,,,0.07646448910236359,test
+target_dataset:SLR20,Erlotinib,,,,0.061934322118759155,test
+target_dataset:HT,Erlotinib,,,0.0,0.05285104364156723,test
+target_dataset:PLC/PRF/5,Erlotinib,,,0.0886662101862819,0.07491488754749298,test
+target_dataset:RERF-LC-A1,Erlotinib,,,0.039469144135859,0.08998064696788788,test
+target_dataset:Ishikawa (Heraklio) 02 ER-,Erlotinib,,,0.218491325974419,0.10837309062480927,test
+target_dataset:KYSE-70,Erlotinib,,,0.171711681503882,0.13634167611598969,test
+target_dataset:TE-4,Erlotinib,,,,0.036455608904361725,test
+target_dataset:Lu-65,Erlotinib,,,,0.06558191776275635,test
+target_dataset:SUP-HD1,Erlotinib,,,,0.07891117036342621,test
+target_dataset:MDA-MB-468,Erlotinib,,,0.218491474374488,0.08199265599250793,test
+target_dataset:Hs 863.T,Erlotinib,,,,0.056981705129146576,test
+target_dataset:RT-4,Erlotinib,,,0.16739683663155,0.0784810483455658,test
+target_dataset:NCI-H1437,Erlotinib,,,,0.1262224018573761,test
+target_dataset:NCO2,Erlotinib,,,0.105692436087806,0.05164254456758499,test
+target_dataset:MKN1,Erlotinib,,,,0.12028336524963379,test
+target_dataset:NCI-H1734,Erlotinib,,,,0.11803507059812546,test
+target_dataset:SNU-46,Erlotinib,,,,0.11033407598733902,test
+target_dataset:LN-229,Erlotinib,,,0.0868919321501221,0.1499786674976349,test
+target_dataset:NCI-H2122,Erlotinib,,,0.0913124519134631,0.19497305154800415,test
+target_dataset:SNU-489,Erlotinib,,,,0.0384475439786911,test
+target_dataset:TE-14,Erlotinib,,,,0.1649925410747528,test
+target_dataset:HEC-1-B,Erlotinib,,,0.067324354538357,0.09852026402950287,test
+target_dataset:Hs 821.T,Erlotinib,,,,0.05909835174679756,test
+target_dataset:EFO-27,Erlotinib,,,0.161534838593571,0.08370736986398697,test
+target_dataset:IA-LM,Erlotinib,,,0.0282183600503712,0.026664916425943375,test
+target_dataset:JHOM-2B,Erlotinib,,,,0.10098294913768768,test
+target_dataset:WM266-4,Erlotinib,,,0.013118494741462,0.0421825647354126,test
+target_dataset:SNU-324,Erlotinib,,,,0.1296723335981369,test
+target_dataset:OCI-AML-5,Erlotinib,,,0.0410195798759189,0.04750745743513107,test
+target_dataset:NCI-H1650,Erlotinib,,,0.220793735361946,0.10456628352403641,test
+target_dataset:ZR-75-30,Erlotinib,,,0.0,0.04169166088104248,test
+target_dataset:SNU-1197,Erlotinib,,,,0.09605313092470169,test
+target_dataset:JURL-MK1,Erlotinib,,,,0.053261980414390564,test
+target_dataset:SNU-C1,Erlotinib,,,,0.20356062054634094,test
+target_dataset:WSU-DLCL2,Erlotinib,,,,0.05464901402592659,test
+target_dataset:CMK-11-5,Erlotinib,,,,0.0014148661866784096,test
+target_dataset:SNU-1076,Erlotinib,,,,0.22311049699783325,test
+target_dataset:SNU-878,Erlotinib,,,,0.027355315163731575,test
+target_dataset:U-138MG,Erlotinib,,,,0.029826171696186066,test
+target_dataset:NOMO-1,Erlotinib,,,,-0.019916221499443054,test
+target_dataset:SNU-81,Erlotinib,,,,0.10020286589860916,test
+target_dataset:NCI-H841,Erlotinib,,,,0.10552114993333817,test
+target_dataset:NCI-H1339,Erlotinib,,,0.0038380460953742,0.022153500467538834,test
+target_dataset:SLR21,Erlotinib,,,,0.09943016618490219,test
+target_dataset:SNB-19,Erlotinib,,,,0.10003353655338287,test
+target_dataset:Hs 683,Erlotinib,,,0.0118898423501595,0.06649374216794968,test
+target_dataset:HuH-1,Erlotinib,,,0.0410050329319411,0.03914273530244827,test
+target_dataset:NCI-H1869,Erlotinib,,,0.152424158416781,0.16523155570030212,test
+target_dataset:HDLM-2,Erlotinib,,,,0.027809781953692436,test
+target_dataset:NCI-H2106,Erlotinib,,,,0.0320512056350708,test
+target_dataset:HuP-T4,Erlotinib,,,0.167535443444042,0.10098285973072052,test
+target_dataset:HL-60,Erlotinib,,,,-0.032704003155231476,test
+target_dataset:HGC-27,Erlotinib,,,0.019985540124347,0.07678969204425812,test
+target_dataset:A-253,Erlotinib,,,0.111939413475256,0.09317715466022491,test
+target_dataset:NCI-H1793,Erlotinib,,,0.142220559643126,0.10774923861026764,test
+target_dataset:PC-14,Erlotinib,,,0.540454830321444,0.32307618856430054,test
+target_dataset:NCI-H2066,Erlotinib,,,,0.10373508185148239,test
+target_dataset:VM-CUB-1,Erlotinib,,,,0.17263436317443848,test
+target_dataset:COLO 741,Erlotinib,,,0.105133052270533,-0.001449713483452797,test
+target_dataset:A-549,Erlotinib,,,0.0812118077477125,0.08529211580753326,test
+target_dataset:COLO 775,Erlotinib,,,,0.03238574415445328,test
+target_dataset:SNU-520,Erlotinib,,,,0.013532103970646858,test
+target_dataset:HuG1-N,Erlotinib,,,,0.1401633620262146,test
+target_dataset:JHUEM-3,Erlotinib,,,,0.11655598133802414,test
+target_dataset:CJM [Human melanoma],Erlotinib,,,,0.22789813578128815,test
+target_dataset:Panc 10.05,Erlotinib,,,0.0565475629518381,0.0980520248413086,test
+target_dataset:COR-L279,Erlotinib,,,,0.01229393482208252,test
+target_dataset:COLO 680N,Erlotinib,,,,0.15851657092571259,test
+target_dataset:CHL-1,Erlotinib,,,0.131031637107937,0.07896673679351807,test
+target_dataset:NCI-H28,Erlotinib,,,0.269475623753143,0.11599218845367432,test
+target_dataset:SNU-899,Erlotinib,,,,0.20763127505779266,test
+target_dataset:EB2,Erlotinib,,,0.0512378600325254,0.049109019339084625,test
+target_dataset:DV-90,Erlotinib,,,0.145650783489382,0.02155502513051033,test
+target_dataset:T-47D,Erlotinib,,,0.0661278856063201,0.10233547538518906,test
+target_dataset:LP-1,Erlotinib,,,0.0,0.04120558500289917,test
+target_dataset:SNU-466,Erlotinib,,,,0.07208652794361115,test
+target_dataset:HCC1143,Erlotinib,,,,0.036066412925720215,test
+target_dataset:KYSE-510,Erlotinib,,,0.0072697969032743,0.15176141262054443,test
+target_dataset:Sq-1,Erlotinib,,,0.0680186397544565,0.04714612662792206,test
+target_dataset:UM-RC-6,Erlotinib,,,,0.08869309723377228,test
+target_dataset:HCC78,Erlotinib,,,0.0077521003033489,0.04032561928033829,test
+target_dataset:NCI-H2347,Erlotinib,,,,0.018742872402071953,test
+target_dataset:PE/CA-PJ41 (clone D2),Erlotinib,,,,0.06526896357536316,test
+target_dataset:TE 441.T,Erlotinib,,,,0.03701925650238991,test
+target_dataset:JHH-1,Erlotinib,,,,0.11558031290769577,test
+target_dataset:Hs 766T,Erlotinib,,,0.0991126936068783,0.045825324952602386,test
+target_dataset:NCI-H2052,Erlotinib,,,0.0832065598621997,0.039951689541339874,test
+target_dataset:SNU-503,Erlotinib,,,,0.16183680295944214,test
+target_dataset:COLO 704,Erlotinib,,,,-0.011804819107055664,test
+target_dataset:YH-13,Erlotinib,,,,0.08139924705028534,test
+target_dataset:NCI-H2227,Erlotinib,,,,0.04977228492498398,test
+target_dataset:BJ1-hTERT,Erlotinib,,,,0.08331360667943954,test
+target_dataset:Fu97,Erlotinib,,,0.0544409555382595,0.02829066663980484,test
+target_dataset:Li-7,Erlotinib,,,,0.0937720313668251,test
+target_dataset:TE-11,Erlotinib,,,0.256996908787732,0.20838883519172668,test
+target_dataset:CAMA-1,Erlotinib,,,0.0157565200587637,0.003437332808971405,test
+target_dataset:NCI-H1092,Erlotinib,,,0.0,0.011017728596925735,test
+target_dataset:MDA-MB-435,Erlotinib,,,0.0032447247819237,0.05827481672167778,test
+target_dataset:JHOM-1,Erlotinib,,,,0.10164648294448853,test
+target_dataset:Hs 294T,Erlotinib,,,0.0316242507584862,0.056512996554374695,test
+target_dataset:Hs 819.T,Erlotinib,,,,0.06339114904403687,test
+target_dataset:RD,Erlotinib,,,0.0021772616522563,0.03231978043913841,test
+target_dataset:OCI-AML-2,Erlotinib,,,0.0296574900079058,0.06477318704128265,test
+target_dataset:NCI-H292,Erlotinib,,,,0.13958129286766052,test
+target_dataset:MHH-CALL-4,Erlotinib,,,,0.05906158313155174,test
+target_dataset:TOV-112D,Erlotinib,,,0.0845724147706257,0.047363050282001495,test
+target_dataset:HCC95,Erlotinib,,,,0.09456715732812881,test
+target_dataset:CL-11,Erlotinib,,,,0.025113608688116074,test
+target_dataset:RERF-LC-MS,Erlotinib,,,0.0,0.05702853202819824,test
+target_dataset:WM983B,Erlotinib,,,0.0124614675203545,0.04543951898813248,test
+target_dataset:MOTN-1,Erlotinib,,,,0.03333122283220291,test
+target_dataset:KMS-18,Erlotinib,,,,0.1278717964887619,test
+target_dataset:KP-N-SI9s,Erlotinib,,,0.0729198755695362,0.17436951398849487,test
+target_dataset:BICR 31,Erlotinib,,,,0.0022836567368358374,test
+target_dataset:COV362,Erlotinib,,,,0.026063382625579834,test
+target_dataset:SNU-175,Erlotinib,,,,0.2265326827764511,test
+target_dataset:Kasumi-1,Erlotinib,,,,0.00747528113424778,test
+target_dataset:NCI-H358,Erlotinib,,,0.188750461482114,0.07440083473920822,test
+target_dataset:NCI-H1623,Erlotinib,,,,0.1572822630405426,test
+target_dataset:NCI-H1618,Erlotinib,,,,0.02702879160642624,test
+target_dataset:SNU-1105,Erlotinib,,,,0.059923939406871796,test
+target_dataset:A2058,Erlotinib,,,0.0203164321242007,0.06675740331411362,test
+target_dataset:SNU-478,Erlotinib,,,,0.17463840544223785,test
+target_dataset:SNU-840,Erlotinib,,,,0.10338271409273148,test
+target_dataset:MG-63,Erlotinib,,,0.0061146008053855,0.03797939419746399,test
+target_dataset:WM88,Erlotinib,,,0.0046589396475744,0.0868939608335495,test
+target_dataset:KMS-11,Erlotinib,,,0.0,0.07616504281759262,test
+target_dataset:HCC1569,Erlotinib,,,0.0068813097414282,0.041983768343925476,test
+target_dataset:NCI-H1581,Erlotinib,,,0.0,0.013256466016173363,test
+target_dataset:WM1799,Erlotinib,,,0.0431675041314747,0.06446923315525055,test
+target_dataset:NCI-H3255,Erlotinib,,,0.561447874525511,0.151861310005188,test
+target_dataset:LMSU,Erlotinib,,,,0.0769086554646492,test
+target_dataset:HCC70,Erlotinib,,,0.0882811990466099,0.15308356285095215,test
+target_dataset:MOLT-16,Erlotinib,,,0.0455364466552918,0.03671375662088394,test
+target_dataset:LNCaP clone FGC,Erlotinib,,,,0.048936627805233,test
+target_dataset:MDST8,Erlotinib,,,,0.08142240345478058,test
+target_dataset:SK-MES-1,Erlotinib,,,0.272357387064309,0.13325287401676178,test
+target_dataset:COR-L95,Erlotinib,,,,0.04192877560853958,test
+target_dataset:Hs 742.T,Erlotinib,,,,0.08394816517829895,test
+target_dataset:NCI-H716,Erlotinib,,,,0.15618708729743958,test
+target_dataset:LoVo,Erlotinib,,,,0.052068375051021576,test
+target_dataset:BT-549,Erlotinib,,,0.0195656376392978,0.030363764613866806,test
+target_dataset:MHH-ES-1,Erlotinib,,,0.0877176325400873,0.06969350576400757,test
+target_dataset:769-P,Erlotinib,,,0.25329984948657,0.07965246587991714,test
+target_dataset:OVK18,Erlotinib,,,,0.07722554355859756,test
+target_dataset:G-401,Erlotinib,,,0.0238411707730038,0.010203331708908081,test
+target_dataset:SCaBER,Erlotinib,,,0.25850831113567,0.1411178559064865,test
+target_dataset:KLM-1,Erlotinib,,,,0.1816357672214508,test
+target_dataset:Mono-Mac-1,Erlotinib,,,0.127921804524056,0.036827247589826584,test
+target_dataset:EFE-184,Erlotinib,,,0.103552446743147,0.14633718132972717,test
+target_dataset:NCI-H1436,Erlotinib,,,,0.0512709766626358,test
+target_dataset:TUHR10TKB,Erlotinib,,,,0.023941628634929657,test
+target_dataset:SNU-1196,Erlotinib,,,,0.0713656023144722,test
+target_dataset:H4,Erlotinib,,,0.0303917922741951,0.11559993028640747,test
+target_dataset:Reh,Erlotinib,,,0.0072748198316787,0.048565104603767395,test
+target_dataset:NCI-H1838,Erlotinib,,,,0.01393251121044159,test
+target_dataset:KYSE-150,Erlotinib,,,0.0819979299467457,0.22192953526973724,test
+target_dataset:NH-6,Erlotinib,,,,0.061157867312431335,test
+target_dataset:MC116,Erlotinib,,,0.0,0.022863926365971565,test
+target_dataset:YMB-1,Erlotinib,,,,0.04964024946093559,test
+target_dataset:MHH-CALL-2,Erlotinib,,,,0.07552646100521088,test
+target_dataset:SJSA-1,Erlotinib,,,0.0369315976788424,0.07216349244117737,test
+target_dataset:DBTRG-05MG,Erlotinib,,,0.0295293703939529,0.12638768553733826,test
+target_dataset:A3/Kawakami,Erlotinib,,,,0.06298333406448364,test
+target_dataset:NCI-H1341,Erlotinib,,,0.103012744278107,0.10501910001039505,test
+target_dataset:C32 [Human melanoma],Erlotinib,,,0.0396979745149343,0.04054558649659157,test
+target_dataset:T24,Erlotinib,,,0.0768022402098758,0.06309506297111511,test
+target_dataset:Mel Ho,Erlotinib,,,0.0213248501074773,0.05729367583990097,test
+target_dataset:Hs 578T,Erlotinib,,,0.0132344841789967,0.030840307474136353,test
+target_dataset:SF126,Erlotinib,,,0.0028855475138971,0.11640557646751404,test
+target_dataset:ABC-1,Erlotinib,,,,0.14508850872516632,test
+target_dataset:Malme-3M,Erlotinib,,,0.032594228598315,0.12773314118385315,test
+target_dataset:NCI-H1573,Erlotinib,,,0.154964829446517,0.1869076043367386,test
+target_dataset:SNU-182,Erlotinib,,,0.126462530716505,0.1645641028881073,test
+target_dataset:NCI-H1781,Erlotinib,,,,0.08756310492753983,test
+target_dataset:Panc 05.04,Erlotinib,,,,0.024645358324050903,test
+target_dataset:KOPN-8,Erlotinib,,,,0.14397156238555908,test
+target_dataset:DND-41,Erlotinib,,,,0.0776866003870964,test
+target_dataset:KATO III,Erlotinib,,,,0.07900925725698471,test
+target_dataset:OC 314,Erlotinib,,,0.0414152166324963,0.05644315853714943,test
+target_dataset:BFTC-909,Erlotinib,,,0.0269900860312162,0.06486641615629196,test
+target_dataset:NCC-StC-K140,Erlotinib,,,,0.15584756433963776,test
+target_dataset:SK-MEL-30,Erlotinib,,,0.0053500624689049,0.03870332986116409,test
+target_dataset:GOS-3,Erlotinib,,,,0.12220673263072968,test
+target_dataset:HEL 92.1.7,Erlotinib,,,0.0177813221317003,0.02231989987194538,test
+target_dataset:SNU-685,Erlotinib,,,,0.10068228840827942,test
+target_dataset:SW1271,Erlotinib,,,0.0170029385810013,0.04578810930252075,test
+target_dataset:UACC-257,Erlotinib,,,0.0049737474990444,0.057527605444192886,test
+target_dataset:Kasumi-6,Erlotinib,,,,-0.003683770075440407,test
+target_dataset:MCAS,Erlotinib,,,0.028530477754127,0.033166103065013885,test
+target_dataset:KM-H2,Erlotinib,,,,0.03677596524357796,test
+target_dataset:TT2609-C02,Erlotinib,,,0.0764294419818976,0.05388057231903076,test
+target_dataset:G-292 clone A141B1,Erlotinib,,,,0.04109005630016327,test
+target_dataset:OAW42,Erlotinib,,,,0.06070923060178757,test
+target_dataset:Hs 688(A).T,Erlotinib,,,,0.03353989124298096,test
+target_dataset:EBC-1,Erlotinib,,,0.0454726012161155,0.03939967229962349,test
+target_dataset:HCC1954,Erlotinib,,,0.10922294838185,0.05249030515551567,test
+target_dataset:TYK-nu,Erlotinib,,,7.598553230877321e-15,0.07252342998981476,test
+target_dataset:LS411N,Erlotinib,,,0.0119201349143826,0.0604575052857399,test
+target_dataset:22Rv1,Erlotinib,,,0.0050320973958801,0.08646208792924881,test
+target_dataset:NCI-H1568,Erlotinib,,,0.192524369049532,0.14181408286094666,test
+target_dataset:CAL-12T,Erlotinib,,,0.282588685784174,0.14204753935337067,test
+target_dataset:B-CPAP,Erlotinib,,,0.0266103192388467,0.05234786868095398,test
+target_dataset:DoHH2,Erlotinib,,,0.0,0.017791569232940674,test
+target_dataset:OUMS-23,Erlotinib,,,,0.050303976982831955,test
+target_dataset:NCI-H2126,Erlotinib,,,,0.06527388095855713,test
+target_dataset:BxPC-3,Erlotinib,,,0.11221767317599,0.04694748669862747,test
+target_dataset:MKN74,Erlotinib,,,0.034472324213695,0.06204608827829361,test
+target_dataset:HEC-59,Erlotinib,,,0.0231255701168466,0.18610750138759613,test
+target_dataset:HT-1080,Erlotinib,,,0.0153929865687471,0.030940121039748192,test
+target_dataset:Hs 936.T,Erlotinib,,,0.0146312556470704,0.015554476529359818,test
+target_dataset:OC 316,Erlotinib,,,0.0341578512748455,0.05804443359375,test
+target_dataset:BT-20,Erlotinib,,,0.135831213554948,0.12136392295360565,test
+target_dataset:HH [Human lymphoma],Erlotinib,,,0.0,0.011765720322728157,test
+target_dataset:CW-2,Erlotinib,,,,0.07098899036645889,test
+target_dataset:SW1573,Erlotinib,,,0.0707136922847403,0.009932082146406174,test
+target_dataset:U-937,Erlotinib,,,0.0519285040835947,0.0029760636389255524,test
+target_dataset:KYM-1,Erlotinib,,,0.0,0.019877411425113678,test
+target_dataset:SW1417,Erlotinib,,,0.0119077730879152,0.05431268364191055,test
+target_dataset:DB,Erlotinib,,,,0.04146408289670944,test
+target_dataset:NB4,Erlotinib,,,,0.02793438360095024,test
+target_dataset:U-251MG,Erlotinib,,,,0.16578269004821777,test
+target_dataset:NCI-H2172,Erlotinib,,,,0.09253621101379395,test
+target_dataset:MOG-G-UVW,Erlotinib,,,,0.08120255172252655,test
+target_dataset:HLF,Erlotinib,,,0.0197482195163892,0.08139079809188843,test
+target_dataset:A101D,Erlotinib,,,,0.043308407068252563,test
+target_dataset:YD-10B,Erlotinib,,,,0.1800670474767685,test
+target_dataset:NCI-H2405,Erlotinib,,,,0.05715334415435791,test
+target_dataset:CAL-85-1,Erlotinib,,,0.285999109686882,0.023958886042237282,test
+target_dataset:Daoy,Erlotinib,,,0.033018722300065,0.07322492450475693,test
+target_dataset:JIMT-1,Erlotinib,,,,0.07117294520139694,test
+target_dataset:SIG-M5,Erlotinib,,,0.126180404243534,0.037220995873212814,test
+target_dataset:HCC366,Erlotinib,,,,0.10033336281776428,test
+target_dataset:NCI-H2141,Erlotinib,,,,0.045090727508068085,test
+target_dataset:SiMa,Erlotinib,,,0.0,0.0007852790877223015,test
+target_dataset:JVM-3,Erlotinib,,,0.112902060411961,0.04874839261174202,test
+target_dataset:L3.3,Erlotinib,,,0.128358214225068,0.022167962044477463,test
+target_dataset:Hs 229.T,Erlotinib,,,0.0,0.12012527137994766,test
+target_dataset:SNU-1079,Erlotinib,,,,0.03154129907488823,test
+target_dataset:EFO-21,Erlotinib,,,0.0443850557242215,0.08045743405818939,test
+target_dataset:RERF-LC-Ad2,Erlotinib,,,,0.16037477552890778,test
+target_dataset:SALE,Erlotinib,,,,0.10049213469028473,test
+target_dataset:SK-MEL-5,Erlotinib,,,0.0558275988840162,0.10441434383392334,test
+target_dataset:HCC202,Erlotinib,,,,0.035773590207099915,test
+target_dataset:MEC-2,Erlotinib,,,,0.08317305147647858,test
+target_dataset:Panc 02.13,Erlotinib,,,,0.09040464460849762,test
+target_dataset:SNU-410,Erlotinib,,,,0.058210939168930054,test
+target_dataset:SR,Erlotinib,,,,0.12023720145225525,test
+target_dataset:NMC-G1,Erlotinib,,,,0.11375593394041061,test
+target_dataset:BICR 56,Erlotinib,,,,0.1592814326286316,test
+target_dataset:NCI-H524,Erlotinib,,,,0.012311147525906563,test
+target_dataset:LCLC-97TM1,Erlotinib,,,,0.055801909416913986,test
+target_dataset:DMS 114,Erlotinib,,,0.0,0.07689803093671799,test
+target_dataset:Hs 737.T,Erlotinib,,,,0.05321153253316879,test
+target_dataset:MDA-MB-453,Erlotinib,,,0.0290113401400771,0.08643744885921478,test
+target_dataset:HCT 15,Erlotinib,,,0.0513580719604864,0.04725360870361328,test
+target_dataset:NCI-H1755,Erlotinib,,,,0.10750388354063034,test
+target_dataset:OV-90,Erlotinib,,,0.0,0.021294720470905304,test
+target_dataset:KPL-1,Erlotinib,,,,0.08472396433353424,test
+target_dataset:SNU-16,Erlotinib,,,0.0470671048886958,0.11871138960123062,test
+target_dataset:RS4;11,Erlotinib,,,,0.08343446999788284,test
+target_dataset:NCI-N87,Erlotinib,,,0.0916116474473374,0.061955250799655914,test
+target_dataset:ECC12,Erlotinib,,,,0.02394062653183937,test
+target_dataset:NCI-H1184,Erlotinib,,,0.0,0.011570323258638382,test
+target_dataset:SNU-719,Erlotinib,,,,0.027168525382876396,test
+target_dataset:NCI-H1836,Erlotinib,,,,0.0591263622045517,test
+target_dataset:OS-RC-2,Erlotinib,,,,0.08493588119745255,test
+target_dataset:NU-DHL-1,Erlotinib,,,,0.07794730365276337,test
+target_dataset:SW1783,Erlotinib,,,,0.11478996276855469,test
+target_dataset:KE-37,Erlotinib,,,,0.08732693642377853,test
+target_dataset:Rh41,Erlotinib,,,,0.02998894453048706,test
+target_dataset:JHH-2,Erlotinib,,,0.0764561426940383,0.004021760076284409,test
+target_dataset:Hs 751.T,Erlotinib,,,,0.08013807982206345,test
+target_dataset:OVCAR-4,Erlotinib,,,0.0890468689794294,0.19040055572986603,test
+target_dataset:IGR-37,Erlotinib,,,0.0326273087860175,-0.005463462322950363,test
+target_dataset:NUGC-4,Erlotinib,,,0.354495435721132,0.1612664759159088,test
+target_dataset:CAL-120,Erlotinib,,,,0.09995321929454803,test
+target_dataset:NCI-H650,Erlotinib,,,0.0050111947642401,0.0027813445776700974,test
+target_dataset:Hs 274.T,Erlotinib,,,,0.08918781578540802,test
+target_dataset:GP2d,Erlotinib,,,,0.0931931734085083,test
+target_dataset:HCC33,Erlotinib,,,,0.05632389709353447,test
+target_dataset:SLR23,Erlotinib,,,,0.06813213229179382,test
+target_dataset:Capan-1,Erlotinib,,,,0.0700245350599289,test
+target_dataset:UACC-812,Erlotinib,,,0.0508647075977552,0.10564617812633514,test
+target_dataset:Kuramochi,Erlotinib,,,0.0934454016671447,0.005309366621077061,test
+target_dataset:TUHR4TKB,Erlotinib,,,,0.046544790267944336,test
+target_dataset:HCC1171,Erlotinib,,,,0.007680144160985947,test
+target_dataset:HT-1197,Erlotinib,,,0.0581736015518673,0.10717099905014038,test
+target_dataset:BICR 22,Erlotinib,,,,0.08578552305698395,test
+target_dataset:YD-15,Erlotinib,,,,0.18293049931526184,test
+target_dataset:EN,Erlotinib,,,0.0081970826955626,0.04648665711283684,test
+target_dataset:Peer,Erlotinib,,,,0.05306736007332802,test
+target_dataset:HDQ-P1,Erlotinib,,,0.204718307811704,0.16352571547031403,test
+target_dataset:UM-UC-3,Erlotinib,,,0.0,0.061760105192661285,test
+target_dataset:ONCO-DG-1,Erlotinib,,,0.142880133312072,0.15991464257240295,test
+target_dataset:AML-193,Erlotinib,,,,0.04145791381597519,test
+target_dataset:NCI-H889,Erlotinib,,,,-0.0004114042967557907,test
+target_dataset:SW620,Erlotinib,,,0.0032287547729638,0.023357750847935677,test
+target_dataset:NCI-H1373,Erlotinib,,,0.0471664690357,0.03516986221075058,test
+target_dataset:SW948,Erlotinib,,,,0.09979917109012604,test
+target_dataset:SEM,Erlotinib,,,,0.0669029951095581,test
+target_dataset:Hs 281.T,Erlotinib,,,,0.0580701008439064,test
+target_dataset:KALS-1,Erlotinib,,,0.0361256866594273,0.07597824931144714,test
+target_dataset:Panc 04.03,Erlotinib,,,0.111468825066676,0.1283029168844223,test
+target_dataset:DM-3,Erlotinib,,,,0.10056726634502411,test
+target_dataset:HEY A8,Erlotinib,,,0.0154558399513439,0.04906740412116051,test
+target_dataset:G-361,Erlotinib,,,0.078325331356097,0.0690874457359314,test
+target_dataset:KHM-1B,Erlotinib,,,0.049218625041717,0.0023726439103484154,test
+target_dataset:HCC15,Erlotinib,,,0.027726216792311,0.1354178786277771,test
+target_dataset:Raji,Erlotinib,,,0.0,0.05200876295566559,test
+target_dataset:SW480,Erlotinib,,,0.020401477901209,0.09058044850826263,test
+target_dataset:D283 Med,Erlotinib,,,,0.032764650881290436,test
+target_dataset:HCT 116,Erlotinib,,,0.0291910516115331,0.0,test
+target_dataset:P3HR-1,Erlotinib,,,0.0,0.0659683495759964,test
+target_dataset:RKO,Erlotinib,,,0.0046315843924956,0.01772763580083847,test
+target_dataset:IGROV-1,Erlotinib,,,0.1451892846298,0.22017616033554077,test
+target_dataset:Kasumi-2,Erlotinib,,,0.0514740270057927,0.06900379806756973,test
+target_dataset:EHEB,Erlotinib,,,,0.06235496699810028,test
+target_dataset:HCC1395,Erlotinib,,,0.042956770513969,0.06518396735191345,test
+target_dataset:KU-19-19,Erlotinib,,,,0.052867691963911057,test
+target_dataset:OCUM-1,Erlotinib,,,0.0,0.06087759882211685,test
+target_dataset:BCP-1,Erlotinib,,,,0.023600345477461815,test
+target_dataset:NCI-H226,Erlotinib,,,0.0059545026920058,0.060025524348020554,test
+target_dataset:JHUEM-2,Erlotinib,,,0.0258694737726735,0.13680431246757507,test
+target_dataset:RERF-LC-Ad1,Erlotinib,,,,0.019800890237092972,test
+target_dataset:JHH-5,Erlotinib,,,0.22465609505044,0.09970240294933319,test
+target_dataset:BICR 6,Erlotinib,,,,0.13075247406959534,test
+target_dataset:MOLT-4,Erlotinib,,,,0.027453554794192314,test
+target_dataset:SET-2,Erlotinib,,,,0.03650159016251564,test
+target_dataset:NCI-H1666,Erlotinib,,,0.379534141507989,0.1848958432674408,test
+target_dataset:JVM-2,Erlotinib,,,,0.05084655433893204,test
+target_dataset:HSC-3,Erlotinib,,,,0.10713933408260345,test
+target_dataset:LS1034,Erlotinib,,,,0.044758912175893784,test
+target_dataset:RCH-ACV,Erlotinib,,,,0.061614274978637695,test
+target_dataset:SNU-1214,Erlotinib,,,,0.1363668292760849,test
+target_dataset:CAL-29,Erlotinib,,,,0.1390381157398224,test
+target_dataset:SLR26,Erlotinib,,,,0.07624992728233337,test
+target_dataset:HuH-28,Erlotinib,,,,0.11464235931634903,test
+target_dataset:JK-1,Erlotinib,,,,0.045934244990348816,test
+target_dataset:AZ-521,Erlotinib,,,0.145596979444519,0.030941829085350037,test
+target_dataset:PK-59,Erlotinib,,,0.0396791309079114,0.049169670790433884,test
+target_dataset:Karpas-299,Erlotinib,,,0.0265723504029587,0.06521230936050415,test
+target_dataset:SH-SY5Y,Erlotinib,,,,0.061735253781080246,test
+target_dataset:HT-1376,Erlotinib,,,0.11419338041038,0.18933124840259552,test
+target_dataset:HMEL,Erlotinib,,,,0.13155509531497955,test
+target_dataset:UACC-893,Erlotinib,,,,0.04125921428203583,test
+target_dataset:RERF-LC-KJ,Erlotinib,,,,0.20932576060295105,test
+target_dataset:HCC1897,Erlotinib,,,,0.11482726037502289,test
+target_dataset:KCL-22,Erlotinib,,,0.045496630596638,0.031573712825775146,test
+target_dataset:HEC-50B,Erlotinib,,,,0.08944867551326752,test
+target_dataset:CADO-ES1,Erlotinib,,,,0.16627246141433716,test
+target_dataset:MDA-MB-415,Erlotinib,,,0.0159285291185951,0.011623641476035118,test
+target_dataset:TM-31,Erlotinib,,,,0.09747610241174698,test
+target_dataset:OUMS-27,Erlotinib,,,,0.05139371007680893,test
+target_dataset:HTK-,Erlotinib,,,,0.049403175711631775,test
+target_dataset:HD-MY-Z,Erlotinib,,,0.0841427877270507,0.028757061809301376,test
+target_dataset:A-498,Erlotinib,,,,0.021853022277355194,test
+target_dataset:NCI-H1563,Erlotinib,,,0.0216638206811162,0.15916800498962402,test
+target_dataset:Hs 840.T,Erlotinib,,,0.0148024543136501,0.08653895556926727,test
+target_dataset:BC-3C,Erlotinib,,,,0.07688148319721222,test
+target_dataset:RERF-GC-1B,Erlotinib,,,0.0858973257371469,0.0446927584707737,test
+target_dataset:Hs 739.T,Erlotinib,,,0.0,0.07533226907253265,test
+target_dataset:RL,Erlotinib,,,,0.05091496929526329,test
+target_dataset:Hs 600.T,Erlotinib,,,,0.053919702768325806,test
+target_dataset:SNU-387,Erlotinib,,,0.0137625000000001,0.058834876865148544,test
+target_dataset:M-07e,Erlotinib,,,,0.08139830827713013,test
+target_dataset:SNU-C2A,Erlotinib,,,0.0947523608802268,0.1801794171333313,test
+target_dataset:42-MG-BA,Erlotinib,,,0.0910999117227594,0.06378474831581116,test
+target_dataset:SNU-398,Erlotinib,,,0.0,0.02138335444033146,test
+target_dataset:HCC1428,Erlotinib,,,,0.04547430947422981,test
+target_dataset:DU145,Erlotinib,,,0.135598200817881,0.07805235683917999,test
+target_dataset:SK-N-SH,Erlotinib,,,0.0330358225676597,0.10725589841604233,test
+target_dataset:NCI-H1105,Erlotinib,,,,0.007574422284960747,test
+target_dataset:MCF-7,Erlotinib,,,0.0520886505724126,0.04869293421506882,test
+target_dataset:HT-29,Erlotinib,,,0.0008752056595092,0.08208738267421722,test
+target_dataset:MHH-NB-11,Erlotinib,,,,0.052205611020326614,test
+target_dataset:BT-483,Erlotinib,,,,0.02106163650751114,test
+target_dataset:HEC-108,Erlotinib,,,,0.12967760860919952,test
+target_dataset:GA-10,Erlotinib,,,,0.010836625471711159,test
+target_dataset:NCI-H209,Erlotinib,,,,0.054400213062763214,test
+target_dataset:SK-ES-1,Erlotinib,,,0.0683218629110332,0.06939725577831268,test
+target_dataset:NALM-19,Erlotinib,,,,0.0959886685013771,test
+target_dataset:NCI-H2170,Erlotinib,,,0.198096525046799,0.04713009297847748,test
+target_dataset:COLO 800,Erlotinib,,,,0.09195346385240555,test
+target_dataset:A-172,Erlotinib,,,0.0200026578656478,0.012629089877009392,test
+target_dataset:EFM-192A,Erlotinib,,,,0.06593587249517441,test
+target_dataset:Panc 08.13,Erlotinib,,,,0.07150071859359741,test
+target_dataset:MIA PaCa-2,Erlotinib,,,0.0151349256793501,0.11999484896659851,test
+target_dataset:MDA-MB-436,Erlotinib,,,0.0656501567842006,0.012280434370040894,test
+target_dataset:KMS-12-BM,Erlotinib,,,0.0,0.049289900809526443,test
+target_dataset:SNU-668,Erlotinib,,,,0.11309989541769028,test
+target_dataset:SNU-761,Erlotinib,,,,0.03974354267120361,test
+target_dataset:LOX-IMVI,Erlotinib,,,0.0215505910373239,0.13014927506446838,test
+target_dataset:Toledo,Erlotinib,,,0.0,0.07216913253068924,test
+target_dataset:HOS,Erlotinib,,,0.0,0.07562172412872314,test
+target_dataset:OV7,Erlotinib,,,,0.023230670019984245,test
+target_dataset:L-540,Erlotinib,,,,0.012728833593428135,test
+target_dataset:KYSE-140,Erlotinib,,,0.290069558925785,0.10199654847383499,test
+target_dataset:SH-10-TC,Erlotinib,,,0.0300115489665035,0.0694986879825592,test
+target_dataset:FTC-238,Erlotinib,,,,0.10074377804994583,test
+target_dataset:A-375,Erlotinib,,,0.0345979103829177,0.058635786175727844,test
+target_dataset:T84,Erlotinib,,,0.0637663383324368,0.06552261859178543,test
+target_dataset:TE-8,Erlotinib,,,,0.04618843272328377,test
+target_dataset:SK-CO-1,Erlotinib,,,0.135089516259724,0.16361333429813385,test
+target_dataset:TGBC11TKB,Erlotinib,,,,0.024166546761989594,test
+target_dataset:SW48,Erlotinib,,,0.34323533661392,0.2165953814983368,test
+target_dataset:COR-L47,Erlotinib,,,,-0.012138018384575844,test
+target_dataset:KMRC-1,Erlotinib,,,0.149200648806191,0.0058913156390190125,test
+target_dataset:SK-UT-1,Erlotinib,,,,0.06515978276729584,test
+target_dataset:HuNS1,Erlotinib,,,,0.01036849245429039,test
+target_dataset:GSS,Erlotinib,,,,0.06553035229444504,test
+target_dataset:5637,Erlotinib,,,0.202139462625986,0.10095915198326111,test
+target_dataset:8505C,Erlotinib,,,0.0308762725344076,0.09226033091545105,test
+target_dataset:COLO 668,Erlotinib,,,,0.08045125752687454,test
+target_dataset:SCC-9,Erlotinib,,,0.209352556276592,0.08290722966194153,test
+target_dataset:MEG-01,Erlotinib,,,0.0118702428342499,-0.001411807257682085,test
+target_dataset:OVMANA,Erlotinib,,,0.0221955939297399,0.15825307369232178,test
+target_dataset:SUP-T11,Erlotinib,,,,0.006651048548519611,test
+target_dataset:RCC10RGB,Erlotinib,,,,0.16159692406654358,test
+target_dataset:SNU-201,Erlotinib,,,,0.10254878550767899,test
+target_dataset:OE33,Erlotinib,,,0.0994217425891791,0.1512645035982132,test
+target_dataset:OAW28,Erlotinib,,,,0.0893944650888443,test
+target_dataset:NCI-H929,Erlotinib,,,,0.008004708215594292,test
+target_dataset:NCI-H1048,Erlotinib,,,0.031623024411141,0.05586027354001999,test
+target_dataset:23132/87,Erlotinib,,,,0.11697421222925186,test
+target_dataset:Hs 822.T,Erlotinib,,,,0.07054068893194199,test
+target_dataset:LS513,Erlotinib,,,,0.031438689678907394,test
+target_dataset:KNS-60,Erlotinib,,,0.0080715130241218,0.055054161697626114,test
+target_dataset:QGP-1,Erlotinib,,,0.0604716766752486,0.12561646103858948,test
+target_dataset:FaDu,Erlotinib,,,0.202366269449161,0.09961456060409546,test
+target_dataset:LN-18,Erlotinib,,,0.0657183372035689,0.12096846103668213,test
+target_dataset:Hs 746.T,Erlotinib,,,0.0282985266311347,0.014758886769413948,test
+target_dataset:GCT,Erlotinib,,,0.0297500574669204,0.029080314561724663,test
+target_dataset:KMS-21-BM,Erlotinib,,,,0.03338228911161423,test
+target_dataset:HARA [Human squamous cell lung carcinoma],Erlotinib,,,0.1139355773964,0.13088759779930115,test
+target_dataset:COLO 829,Erlotinib,,,,0.11317994445562363,test
+target_dataset:KMM-1,Erlotinib,,,0.0068735760231036,0.031216390430927277,test
+target_dataset:Mono-Mac-6,Erlotinib,,,,0.015615362673997879,test
+target_dataset:NCI-H1693,Erlotinib,,,0.196446584599643,0.14256522059440613,test
+target_dataset:KCI-MOH1,Erlotinib,,,0.163729617773422,0.08525294065475464,test
+target_dataset:Mel JuSo,Erlotinib,,,,0.01735585369169712,test
+target_dataset:KE-39,Erlotinib,,,0.175092672742207,0.03785332292318344,test
+target_dataset:SNU-886,Erlotinib,,,,0.025281662121415138,test
+target_dataset:Caki-1,Erlotinib,,,,0.09984779357910156,test
+target_dataset:Hs 870.T,Erlotinib,,,,0.08808458596467972,test
+target_dataset:SW900,Erlotinib,,,0.0325738478208323,0.03430015966296196,test
+target_dataset:HEK TE,Erlotinib,,,,0.04350832849740982,test
+target_dataset:AM-38,Erlotinib,,,,0.0187535360455513,test
+target_dataset:Karpas-620,Erlotinib,,,0.0213122057174258,-0.005730553530156612,test
+target_dataset:JHOC-5,Erlotinib,,,,0.04064374789595604,test
+target_dataset:COV644,Erlotinib,,,,0.08333223313093185,test
+target_dataset:NCI-H747,Erlotinib,,,0.0854438275693443,0.17227087914943695,test
+target_dataset:SW1353,Erlotinib,,,0.0042658209862159,0.044243015348911285,test
+target_dataset:SU-DHL-4,Erlotinib,,,0.0581571366210038,0.07570323348045349,test
+target_dataset:KP-N-RT-BM-1,Erlotinib,,,,0.033124085515737534,test
+target_dataset:CA46,Erlotinib,,,,0.05740516260266304,test
+target_dataset:TEN,Erlotinib,,,0.0,0.18093664944171906,test
+target_dataset:COLO 320,Erlotinib,,,0.0656630100878447,0.03307497501373291,test
+target_dataset:639V,Erlotinib,,,,0.09210371226072311,test
+target_dataset:S-117,Erlotinib,,,,0.025941120460629463,test
+target_dataset:LCLC-103H,Erlotinib,,,0.0185216437044789,0.00023648701608181,test
+target_dataset:U266B1,Erlotinib,,,,0.029052753001451492,test
+target_dataset:NALM-1,Erlotinib,,,,0.03427724912762642,test
+target_dataset:HT-55,Erlotinib,,,,0.10211823135614395,test
+target_dataset:LS180,Erlotinib,,,,0.09293310344219208,test
+target_dataset:RVH-421,Erlotinib,,,0.0070321023866841,0.08205452561378479,test
+target_dataset:DK-MG,Erlotinib,,,0.0273288019534314,0.06506039947271347,test
+target_dataset:P31/FUJ,Erlotinib,,,0.010075471775247,0.017394687980413437,test
+target_dataset:SK-HEP-1,Erlotinib,,,0.0225654593824648,0.05068102106451988,test
+target_dataset:TE 159.T,Erlotinib,,,,0.07587829232215881,test
+target_dataset:COLO 849,Erlotinib,,,,0.07498752325773239,test
+target_dataset:CAL-27,Erlotinib,,,0.331155066635375,0.12380126863718033,test
+target_dataset:Granta-519,Erlotinib,,,0.0327026256903496,0.06998952478170395,test
+target_dataset:PF-382,Erlotinib,,,,0.056531619280576706,test
+target_dataset:Hs 698.T,Erlotinib,,,,0.09881990402936935,test
+target_dataset:NCI-H1703,Erlotinib,,,0.0569925607990749,0.021747473627328873,test
+target_dataset:Ri-1,Erlotinib,,,,0.09478122740983963,test
+target_dataset:KYSE-270,Erlotinib,,,,0.10103194415569305,test
+target_dataset:SNU-1077,Erlotinib,,,,0.041400372982025146,test
+target_dataset:HCC1419,Erlotinib,,,,0.0616673082113266,test
+target_dataset:NCI-H854,Erlotinib,,,,0.036132656037807465,test
+target_dataset:PaTu 8988s,Erlotinib,,,,0.06506317853927612,test
+target_dataset:SNU-216,Erlotinib,,,,0.1786668747663498,test
+target_dataset:Hs 343.T,Erlotinib,,,,0.07985205203294754,test
+target_dataset:NCI-H2029,Erlotinib,,,,0.07163423299789429,test
+target_dataset:NCI-H1963,Erlotinib,,,,0.024464163929224014,test
+target_dataset:KO52,Erlotinib,,,0.0654167281139243,0.04508998990058899,test
+target_dataset:MOLM-13,Erlotinib,,,,0.03199729695916176,test
+target_dataset:Caov-3,Erlotinib,,,,0.11399903148412704,test
+target_dataset:HCC2279,Erlotinib,,,,0.061078593134880066,test
+target_dataset:Hs 852.T,Erlotinib,,,0.0606494731196107,0.06009647995233536,test
+target_dataset:SNU-8,Erlotinib,,,,0.16863764822483063,test
+target_dataset:PaTu 8988t,Erlotinib,,,,0.03901416063308716,test
+target_dataset:CAL-33,Erlotinib,,,,0.13967518508434296,test
+target_dataset:BL-41,Erlotinib,,,0.0095987380447434,-0.0036664828658103943,test
+target_dataset:Huh-7,Erlotinib,,,,0.08826110512018204,test
+target_dataset:PrEC LH,Erlotinib,,,,0.12862153351306915,test
+target_dataset:MOLP-2,Erlotinib,,,,0.005678869783878326,test
+target_dataset:HuTu 80,Erlotinib,,,,0.015986230224370956,test
+target_dataset:RPMI-8226,Erlotinib,,,,0.028543991968035698,test
+target_dataset:NCI-H196,Erlotinib,,,,0.10979565978050232,test
+target_dataset:SW1710,Erlotinib,,,,0.04898583143949509,test
+target_dataset:KP-2,Erlotinib,,,0.0396461943962427,0.014687100425362587,test
+target_dataset:DMS 79,Erlotinib,,,,0.07001665234565735,test
+target_dataset:CAL-62,Erlotinib,,,,0.07459482550621033,test
+target_dataset:NCI-H2087,Erlotinib,,,0.0773694104553063,0.17649972438812256,test
+target_dataset:MFE-296,Erlotinib,,,0.105789474600448,0.0432429164648056,test
+target_dataset:SK-MEL-28,Erlotinib,,,,0.021260196343064308,test
+target_dataset:SU-DHL-5,Erlotinib,,,,0.031994033604860306,test
+target_dataset:BT-474,Erlotinib,,,0.0537926082643491,0.15467076003551483,test
+target_dataset:KMRC-20,Erlotinib,,,,0.08794349431991577,test
+target_dataset:G-402,Erlotinib,,,0.0035938457120128,0.03570253401994705,test
+target_dataset:Rh30,Erlotinib,,,0.0078888326839729,0.0902714729309082,test
+target_dataset:NCI-H146,Erlotinib,,,,0.11500884592533112,test
+target_dataset:TIG-3 TD,Erlotinib,,,,0.09103935956954956,test
+target_dataset:NCI-H1385,Erlotinib,,,,0.020526913926005363,test
+target_dataset:JHOS-2,Erlotinib,,,0.0096661428907013,0.06473828852176666,test
+target_dataset:Hs 940.T,Erlotinib,,,,0.07058887183666229,test
+target_dataset:MJ,Erlotinib,,,0.0,0.0504462867975235,test
+target_dataset:KYSE-180,Erlotinib,,,0.202348591328392,0.2253233939409256,test
+target_dataset:DU4475,Erlotinib,,,,-0.0008037532679736614,test
+target_dataset:A2780,Erlotinib,,,0.0182631271735792,0.03776276484131813,test
+target_dataset:WM793,Erlotinib,,,0.0280512493673766,0.08123071491718292,test
+target_dataset:SK-N-MC,Erlotinib,,,,0.021629132330417633,test
+target_dataset:YD-38,Erlotinib,,,,0.23619964718818665,test
+target_dataset:IGR-39,Erlotinib,,,0.0072505093170284,0.04438433051109314,test
+target_dataset:A4/Fukuda,Erlotinib,,,,0.03673149272799492,test
+target_dataset:NCI-H2081,Erlotinib,,,,0.028679996728897095,test
+target_dataset:OCI-Ly3,Erlotinib,,,,0.02855212241411209,test
+target_dataset:BHT-101,Erlotinib,,,,0.05786958336830139,test
+target_dataset:EC-GI-10,Erlotinib,,,,0.2309035360813141,test
+target_dataset:Hs 944.T,Erlotinib,,,0.0221635619877788,0.009832197800278664,test
+target_dataset:Hep 3B2.1-7,Erlotinib,,,0.0,0.0774993747472763,test
+target_dataset:KYSE-30,Erlotinib,,,0.107401668997436,0.18577708303928375,test
+target_dataset:OELE,Erlotinib,,,,0.0,test
+target_dataset:MOR/CPR,Erlotinib,,,0.0502375665599399,0.0829070657491684,test
+target_dataset:TOV-21G,Erlotinib,,,0.0680697732550301,0.07440358400344849,test
+target_dataset:KG-1,Erlotinib,,,0.0368547649599705,0.005465106572955847,test
+target_dataset:Hs 695T,Erlotinib,,,0.0027959688318722,0.04528798907995224,test
+target_dataset:HEC-265,Erlotinib,,,0.0,0.19761765003204346,test
+target_dataset:Kelly,Erlotinib,,,0.0,0.06363420188426971,test
+target_dataset:TCCSUP,Erlotinib,,,0.0053850991607237,0.06705805659294128,test
+target_dataset:TE-6,Erlotinib,,,,0.24089516699314117,test
+target_dataset:SNU-308,Erlotinib,,,,0.179081991314888,test
+target_dataset:ACC-MESO-1,Erlotinib,,,,0.10991231352090836,test
+target_dataset:SLR25,Erlotinib,,,,0.09344881772994995,test
+target_dataset:CCK-81,Erlotinib,,,0.207388862765003,0.1518678367137909,test
+target_dataset:BV-173,Erlotinib,,,,0.055852629244327545,test
+target_dataset:ALL-SIL,Erlotinib,,,0.0796000295460968,0.08426782488822937,test
+target_dataset:Mino,Erlotinib,,,0.123214185346362,0.09111952781677246,test
+target_dataset:PE/CA-PJ34 (clone C12),Erlotinib,,,,0.07184307277202606,test
+target_dataset:GDM-1,Erlotinib,,,,0.03737545385956764,test
+target_dataset:MFE-280,Erlotinib,,,0.122081595813216,0.004752884153276682,test
+target_dataset:NCI-H838,Erlotinib,,,,0.081367127597332,test
+target_dataset:U-87MG ATCC,Erlotinib,,,0.0,0.03718025982379913,test
+target_dataset:HMC-1-8,Erlotinib,,,0.0194228408584924,0.09826378524303436,test
+target_dataset:COV504,Erlotinib,,,0.0711984611306931,0.021947629749774933,test
+target_dataset:LUDLU-1,Erlotinib,,,0.214790275430073,0.24113112688064575,test
+target_dataset:JHH-7,Erlotinib,,,0.064003193556415,0.056439608335494995,test
+target_dataset:VMRC-LCD,Erlotinib,,,9.30474122692297e-16,0.010835917666554451,test
+target_dataset:IM95,Erlotinib,,,,0.03584374859929085,test
+target_dataset:EoL-1,Erlotinib,,,,0.030518513172864914,test
+target_dataset:NCI-H2444,Erlotinib,,,0.0568650212005285,0.033083703368902206,test
+target_dataset:EFM-19,Erlotinib,,,0.0049819041613393,0.04571546986699104,test
+target_dataset:NCI-H2023,Erlotinib,,,0.0196922070680006,0.016069114208221436,test
+target_dataset:SNU-349,Erlotinib,,,,0.05083665996789932,test
+target_dataset:697,Erlotinib,,,0.109439352447289,0.052505798637866974,test
+target_dataset:HT-144,Erlotinib,,,0.0572195858802345,0.038511086255311966,test
+target_dataset:NCI-H460,Erlotinib,,,0.0156850277955704,0.141272634267807,test
+target_dataset:CHP-126,Erlotinib,,,,0.08903919160366058,test
+target_dataset:NCI-H520,Erlotinib,,,0.0,0.06743434816598892,test
+target_dataset:TALL-1 [Human adult T-ALL],Erlotinib,,,,0.0653790682554245,test
+target_dataset:HEL,Erlotinib,,,,0.023656439036130905,test
+target_dataset:KYSE-520,Erlotinib,,,0.185508738558247,0.21852001547813416,test
+target_dataset:1321N1,Erlotinib,,,0.0588349285319097,0.03593608736991882,test
+target_dataset:L-363,Erlotinib,,,0.0300418768691312,0.05849526822566986,test
+target_dataset:KMS-34,Erlotinib,,,0.0064564022136489,0.0678337961435318,test
+target_dataset:NALM-6,Erlotinib,,,,0.054410915821790695,test
+target_dataset:NCI-H1915,Erlotinib,,,0.0466802928699457,0.026907049119472504,test
+target_dataset:SF295,Erlotinib,,,0.0548661332673498,0.061145104467868805,test
+target_dataset:SK-N-AS,Erlotinib,,,0.0127704422972367,0.04881373792886734,test
+target_dataset:DAN-G,Erlotinib,,,,0.04350198805332184,test
+target_dataset:Hs 606.T,Erlotinib,,,,0.08448980748653412,test
+target_dataset:HuT 102,Erlotinib,,,,0.0910535603761673,test
+target_dataset:COR-L51,Erlotinib,,,,0.04702271521091461,test
+target_dataset:HPAF-II,Erlotinib,,,0.0623307309772142,0.11622681468725204,test
+target_dataset:HuCC-T1,Erlotinib,,,0.0758539329680988,0.062607541680336,test
+target_dataset:AsPC-1,Erlotinib,,,0.0560623329164002,0.12222447991371155,test
+target_dataset:IST-Mes1,Erlotinib,,,0.0301124999999999,0.06928814202547073,test
+target_dataset:BL-70,Erlotinib,,,0.0071939968305693,-0.0025364961475133896,test
+target_dataset:CAL-78,Erlotinib,,,0.0301368569813702,0.03523993492126465,test
+target_dataset:Calu-6,Erlotinib,,,0.0232435160923001,0.12244205176830292,test
+target_dataset:VMRC-LCP,Erlotinib,,,,0.07336196303367615,test
+target_dataset:JHUEM-1,Erlotinib,,,,0.13852614164352417,test
+target_dataset:SNU-407,Erlotinib,,,,0.041452325880527496,test
+target_dataset:NUGC-3,Erlotinib,,,0.236166481231863,0.16635489463806152,test
+target_dataset:KNS-62,Erlotinib,,,0.0,0.14557787775993347,test
+target_dataset:Jurkat E6.1,Erlotinib,,,0.0802025941135735,0.030860263854265213,test
+target_dataset:NCI-H1648,Erlotinib,,,0.0904114667864765,0.1554381549358368,test
+target_dataset:OPM-2,Erlotinib,,,0.0670311385708233,0.06322227418422699,test
+target_dataset:REC-1,Erlotinib,,,,0.038425199687480927,test
+target_dataset:KMS-28BM,Erlotinib,,,,0.02867554873228073,test
+target_dataset:Calu-3,Erlotinib,,,0.139699599142118,0.12308653444051743,test
+target_dataset:SNU-1,Erlotinib,,,0.0857185734417132,0.1063401848077774,test
+target_dataset:UM-RC-2,Erlotinib,,,,0.14419791102409363,test
+target_dataset:SU-DHL-10,Erlotinib,,,0.0,0.01098187267780304,test
+target_dataset:T3M-4,Erlotinib,,,,0.1234951764345169,test
+target_dataset:Hs 618.T,Erlotinib,,,,0.08570870757102966,test
+target_dataset:A-204,Erlotinib,,,0.0132449010203385,0.08549811691045761,test
+target_dataset:PSN1,Erlotinib,,,0.0351598954778951,0.07125183194875717,test
+target_dataset:KMRC-3,Erlotinib,,,,0.056361474096775055,test
+target_dataset:BEN,Erlotinib,,,,0.08331331610679626,test
+target_dataset:SK-MEL-1,Erlotinib,,,,0.0025798738934099674,test
+target_dataset:SNU-C4,Erlotinib,,,,0.023058880120515823,test
+target_dataset:NCI-H441,Erlotinib,,,0.0361416593151064,0.09199870377779007,test
+target_dataset:Hep-G2,Erlotinib,,,0.028461952671853,0.043111369013786316,test
+target_dataset:F-36P,Erlotinib,,,0.0167801670068449,0.07943649590015411,test
+target_dataset:CHP-212,Erlotinib,,,0.0168024579872777,0.033790022134780884,test
+target_dataset:SK-MEL-2,Erlotinib,,,0.0,0.09446294605731964,test
+target_dataset:Ci-1,Erlotinib,,,0.0,0.08077989518642426,test
+target_dataset:HMCB,Erlotinib,,,0.117314520850036,0.047429345548152924,test
+target_dataset:CL-34,Erlotinib,,,,0.1210707277059555,test
+target_dataset:TT,Erlotinib,,,,0.0788055807352066,test
+target_dataset:SKM-1,Erlotinib,,,,0.04269862174987793,test
+target_dataset:KMS-26,Erlotinib,,,0.011861918754795,0.03560372442007065,test
+target_dataset:COV318,Erlotinib,,,0.0,0.1156880259513855,test
+target_dataset:NCI-H660,Erlotinib,,,,0.09405653923749924,test
+target_dataset:OE19,Erlotinib,,,,0.05607660859823227,test
+target_dataset:SU-DHL-8,Erlotinib,,,0.0060804652612669,0.09602100402116776,test
+target_dataset:COV434,Erlotinib,,,,0.06487637013196945,test
+target_dataset:SHP-77,Erlotinib,,,0.0,0.020547017455101013,test
+target_dataset:JL-1,Erlotinib,,,,0.011580348014831543,test
+target_dataset:DMS 273,Erlotinib,,,,0.024598384276032448,test
+target_dataset:TC-71,Erlotinib,,,0.0,0.09506617486476898,test
+target_dataset:HLE,Erlotinib,,,0.0274767936306091,0.05242373049259186,test
+target_dataset:NCI-H2286,Erlotinib,,,0.0950558401951842,0.0865035429596901,test
+target_dataset:RMUG-S,Erlotinib,,,,0.13406841456890106,test
+target_dataset:Hs 729.T,Erlotinib,,,0.0124696952980024,0.06293226778507233,test
+target_dataset:HuP-T3,Erlotinib,,,0.0448855558355754,0.0899103656411171,test
+target_dataset:NCI-H1944,Erlotinib,,,0.105103912944344,0.0985456332564354,test
+target_dataset:KMS-20,Erlotinib,,,,0.019519511610269547,test
+target_dataset:ML-1 [Human thyroid carcinoma],Erlotinib,,,,0.0789184644818306,test
+target_dataset:HPB-ALL,Erlotinib,,,,0.06910508871078491,test
+target_dataset:SH-4,Erlotinib,,,,0.015022043138742447,test
+target_dataset:NCI-H1792,Erlotinib,,,0.0354342546126242,0.028412003070116043,test
+target_dataset:JMSU-1,Erlotinib,,,0.110923506771192,0.011466643773019314,test
+target_dataset:JHOS-4,Erlotinib,,,0.12377795580422,0.10352051258087158,test
+target_dataset:SW403,Erlotinib,,,0.122852776007857,0.058070626109838486,test
+target_dataset:MUTZ-5,Erlotinib,,,,0.06386958062648773,test
+target_dataset:EM-2,Erlotinib,,,0.0606996145153811,0.01462756097316742,test
+target_dataset:PK-1,Erlotinib,,,0.0948814036326748,0.04469921067357063,test
+target_dataset:SK-LMS-1,Erlotinib,,,0.0986029758746453,0.04824497923254967,test
+target_dataset:HuH-6 Clone 5,Erlotinib,,,,0.0981629341840744,test
+target_dataset:GR-M,Erlotinib,,,,0.013795326463878155,test
+target_dataset:Hs 172.T,Erlotinib,,,,0.060288477689027786,test
+target_dataset:HPAC,Erlotinib,,,0.0644894115874022,0.21439248323440552,test
+target_dataset:ES-2,Erlotinib,,,0.0207823472235324,0.06049427390098572,test
+target_dataset:COR-L105,Erlotinib,,,0.184419137598666,0.21526634693145752,test
+target_dataset:SW780,Erlotinib,,,0.122386456001102,0.13237100839614868,test
+target_dataset:NCI-H322,Erlotinib,,,0.305784120047208,0.05515813082456589,test
+target_dataset:SK-N-BE(2),Erlotinib,,,0.0084039392609817,0.09107217192649841,test
+target_dataset:SU-DHL-6,Erlotinib,,,0.0,0.020284298807382584,test
+target_dataset:TE-15,Erlotinib,,,0.237841669361768,0.16424229741096497,test
+target_dataset:SW1990,Erlotinib,,,0.0523590286694586,0.07562859356403351,test
+target_dataset:LC-1F,Erlotinib,,,,0.1751115471124649,test
+target_dataset:MSTO-211H,Erlotinib,,,0.0468232661050798,0.04995157942175865,test
+target_dataset:143B,Erlotinib,,,,0.04833609610795975,test
+target_dataset:LXF 289,Erlotinib,,,,0.10376393795013428,test
+target_dataset:NCI-H1355,Erlotinib,,,0.170404319767082,0.06391584873199463,test
+target_dataset:NCI-H2171,Erlotinib,,,,0.03879715874791145,test
+target_dataset:Hs 611.T,Erlotinib,,,,0.09589332342147827,test
+target_dataset:COR-L24,Erlotinib,,,,0.13505275547504425,test
+target_dataset:OCI-AML-3,Erlotinib,,,,0.014108208939433098,test
+target_dataset:IGR-1,Erlotinib,,,,0.04033175855875015,test
+target_dataset:HCC1187,Erlotinib,,,0.0466619416920787,0.05494824796915054,test
+target_dataset:SNU-283,Erlotinib,,,,0.12454375624656677,test
+target_dataset:CGTH-W-1,Erlotinib,,,,0.08540959656238556,test
+target_dataset:TE-9,Erlotinib,,,0.0809057812802422,0.2191106677055359,test
+target_dataset:JHH-6,Erlotinib,,,0.0130652353313218,0.039995066821575165,test
+target_dataset:MOLT-13,Erlotinib,,,,0.03654075413942337,test
+target_dataset:Hs 675.T,Erlotinib,,,,0.10656383633613586,test
+target_dataset:NCI-H510A,Erlotinib,,,,0.06169196590781212,test
+target_dataset:OVKATE,Erlotinib,,,,0.19142204523086548,test
+target_dataset:NCI-H1975,Erlotinib,,,0.0464013068654505,0.17710821330547333,test
+target_dataset:MOG-G-CCM,Erlotinib,,,0.0,0.05639047548174858,test
+target_dataset:SK-BR-3,Erlotinib,,,0.0598540720517569,0.14504963159561157,test
+target_dataset:Capan-2,Erlotinib,,,0.0555885170622082,0.06923245638608932,test
+target_dataset:T.T,Erlotinib,,,,0.1936824917793274,test
+target_dataset:Hs 939.T,Erlotinib,,,0.0189969794046147,0.04280010983347893,test
+target_dataset:FU-OV-1,Erlotinib,,,0.116164486880648,0.06003947928547859,test
+target_dataset:SK-OV-3,Erlotinib,,,0.0792475338990637,0.03338412195444107,test
+target_dataset:COR-L88,Erlotinib,,,,0.09605821967124939,test
+target_dataset:K029AX,Erlotinib,,,0.0,0.1419682502746582,test
+target_dataset:MDA-PCa-2b,Erlotinib,,,,0.022054648026823997,test
+target_dataset:Pfeiffer,Erlotinib,,,0.128442704007119,0.03375809267163277,test
+target_dataset:NCI-H23,Erlotinib,,,0.0122367471885851,0.015640560537576675,test
+target_dataset:LS123,Erlotinib,,,0.0687453300998243,0.05899641662836075,test
+target_dataset:SNU-449,Erlotinib,,,0.0585179792211455,0.12342483550310135,test
+target_dataset:HuT 78,Erlotinib,,,0.0,0.02704222872853279,test
+target_dataset:SU.86.86,Erlotinib,,,0.0552695916589043,0.1648055464029312,test
+target_dataset:FTC-133,Erlotinib,,,,0.04795686900615692,test
+target_dataset:NCI-H1930,Erlotinib,,,,-0.004088638350367546,test
+target_dataset:WM115,Erlotinib,,,0.0093040083597805,0.05626947432756424,test
+target_dataset:AMO1,Erlotinib,,,0.0405618113899816,0.040265630930662155,test
+target_dataset:CML-T1,Erlotinib,,,,0.09506165981292725,test
+target_dataset:OVCAR-8,Erlotinib,,,,0.0312481876462698,test
+target_dataset:NCI-H526,Erlotinib,,,,0.010705497115850449,test
+target_dataset:IPC-298,Erlotinib,,,0.0528985627972757,0.015905752778053284,test
+target_dataset:P12-Ichikawa,Erlotinib,,,0.0423395601743679,0.04408406838774681,test
+target_dataset:SNG-M,Erlotinib,,,0.0745293031988896,0.23557135462760925,test
+target_dataset:NCI-H2009,Erlotinib,,,0.0812374464357929,0.07791967689990997,test
+target_dataset:DLD-1,Erlotinib,,,,0.06225111708045006,test
+target_dataset:Becker,Erlotinib,,,,0.10481062531471252,test
+target_dataset:PCM6,Erlotinib,,,,0.025521675124764442,test
+target_dataset:SK-N-FI,Erlotinib,,,0.0,0.09591027349233627,test
+target_dataset:MPP 89,Erlotinib,,,0.0190493875298152,0.09902562201023102,test
+target_dataset:SF172,Erlotinib,,,,0.016851279884576797,test
+target_dataset:J82,Erlotinib,,,0.0431609284809773,0.09776400029659271,test
+target_dataset:OVCAR-3,Erlotinib,,,0.144301376051329,0.14991691708564758,test
+target_dataset:RT-112,Erlotinib,,,0.0563652566288176,0.1290946751832962,test
+target_dataset:TC-32,Erlotinib,,,,0.05839751660823822,test
+target_dataset:MES-SA,Erlotinib,,,0.0021052305869831,0.10159497708082199,test
+target_dataset:MDA-MB-361,Erlotinib,,,,0.053480714559555054,test
+target_dataset:NCI-H82,Erlotinib,,,,-0.01006663590669632,test
+target_dataset:NCI-H2452,Erlotinib,,,0.0782546305703664,0.10110330581665039,test
+target_dataset:DEL,Erlotinib,,,0.0377691989042137,0.17376288771629333,test
+target_dataset:NB1,Erlotinib,,,,0.14842292666435242,test
+target_dataset:HLC-1,Erlotinib,,,,0.0813048705458641,test
+target_dataset:CAL-148,Erlotinib,,,,0.07450787723064423,test
+target_dataset:Hs 839.T,Erlotinib,,,,0.06822743266820908,test
+target_dataset:NCI-H1651,Erlotinib,,,0.0427770897570794,0.07148075103759766,test
+target_dataset:SW1116,Erlotinib,,,,0.13440613448619843,test
+target_dataset:AN3-CA,Erlotinib,,,0.0336364536691071,0.042148176580667496,test
+target_dataset:LC-1/sq-SF,Erlotinib,,,0.115469678393687,0.09444589912891388,test
+target_dataset:NCI-H810,Erlotinib,,,0.0,0.037930577993392944,test
+target_dataset:RERF-LC-Sq1,Erlotinib,,,,0.07271811366081238,test
+target_dataset:KMRC-2,Erlotinib,,,0.0557129797932296,0.03258492425084114,test
+target_dataset:YAPC,Erlotinib,,,,0.07365840673446655,test
+target_dataset:Detroit 562,Erlotinib,,,0.115415781570674,0.0684099793434143,test
+target_dataset:Hs 706.T,Erlotinib,,,,0.11008478701114655,test
+target_dataset:NUGC-2,Erlotinib,,,,0.06784763932228088,test
+target_dataset:D341 Med,Erlotinib,,,,0.02015925757586956,test
+target_dataset:RKN,Erlotinib,,,0.0210373946360292,0.11789678037166595,test
+target_dataset:KG-1-C,Erlotinib,,,,0.02320474199950695,test
+target_dataset:HCC-56,Erlotinib,,,0.0570985978077439,0.05355249345302582,test
+target_dataset:MM1.S,Erlotinib,,,,0.022589540109038353,test
+target_dataset:ZR-75-1,Erlotinib,,,0.113728781027,0.06026063859462738,test
+target_dataset:TE 125.T,Erlotinib,,,,0.07615354657173157,test
+target_dataset:HCC1195,Erlotinib,,,,-0.018098779022693634,test
+target_dataset:U-118MG,Erlotinib,,,0.0070533201869107,0.025189295411109924,test
+target_dataset:CMK-86,Erlotinib,,,0.0731526974712473,0.009455280378460884,test
+target_dataset:HCC44,Erlotinib,,,0.006897030803354,0.08466687053442001,test
+target_dataset:KM12,Erlotinib,,,,0.08991353213787079,test
+target_dataset:Ki-JK,Erlotinib,,,,0.14073532819747925,test
+target_dataset:KMBC-2,Erlotinib,,,0.0160264888319069,0.22218695282936096,test
+target_dataset:SK-MEL-24,Erlotinib,,,0.0174420687459357,0.021490687504410744,test
+target_dataset:NCI-H727,Erlotinib,,,0.0142250000000003,0.10405047237873077,test
+target_dataset:COLO 792,Erlotinib,,,,0.0181816928088665,test
+target_dataset:BICR 18,Erlotinib,,,,0.12826867401599884,test
+target_dataset:A-673,Erlotinib,,,0.0132935443628987,0.10707356035709381,test
+target_dataset:SK-MEL-31,Erlotinib,,,0.0229383589159689,0.007986124604940414,test
+target_dataset:BHY,Erlotinib,,,,0.17239923775196075,test
+target_dataset:ACHN,Erlotinib,,,0.181831477887917,0.19114187359809875,test
+target_dataset:BDCM,Erlotinib,,,0.0132267808987782,0.04552026838064194,test
+target_dataset:SW837,Erlotinib,,,,0.05144179239869118,test
+target_dataset:NCI-H2085,Erlotinib,,,0.0529470600289252,0.025493303313851357,test
+target_dataset:KYO-1,Erlotinib,,,,-0.005746667273342609,test
+target_dataset:GMS-10,Erlotinib,,,0.0190540934281724,0.09490350633859634,test
+target_dataset:L-1236,Erlotinib,,,,0.03651965782046318,test
+target_dataset:8-MG-BA,Erlotinib,,,0.0742306712571944,0.07187791168689728,test
+target_dataset:HK-2 [Human kidney],Erlotinib,,,,0.039264976978302,test
+target_dataset:HCC38,Erlotinib,,,,0.05847706273198128,test
+target_dataset:T98G,Erlotinib,,,0.0234528653048481,0.06680329889059067,test
+target_dataset:AGS,Erlotinib,,,,0.011477278545498848,test
+target_dataset:SNU-1040,Erlotinib,,,,0.11060693860054016,test
+target_dataset:KP-4,Erlotinib,,,0.0227589220206098,0.05432850867509842,test
+target_dataset:SNU-738,Erlotinib,,,,0.19095109403133392,test
+target_dataset:VMRC-RCZ,Erlotinib,,,0.0380711745358432,0.07154497504234314,test
+target_dataset:HSC-4,Erlotinib,,,,0.22260317206382751,test
+target_dataset:TO 175.T,Erlotinib,,,,0.076639823615551,test
+target_dataset:Panc 03.27,Erlotinib,,,0.0627539316471438,0.032062824815511703,test
+target_dataset:SUP-T1,Erlotinib,,,0.0,0.05690007656812668,test
+target_dataset:HCC2157,Erlotinib,,,,0.026558738201856613,test
+target_dataset:LAMA-84,Erlotinib,,,,0.06068973243236542,test
+target_dataset:PANC-1,Erlotinib,,,,0.07444504648447037,test
+target_dataset:NCI-H522,Erlotinib,,,0.0403443205178365,0.06462199985980988,test
+target_dataset:RCC4,Erlotinib,,,,0.05698549747467041,test
+target_dataset:ECC10,Erlotinib,,,,0.0404667966067791,test
+target_dataset:SUIT-2,Erlotinib,,,0.12975502270627,0.12240533530712128,test
+target_dataset:JHH-4,Erlotinib,,,0.0546806254132545,0.05471000820398331,test
+target_dataset:ONS-76,Erlotinib,,,0.0214716122271844,0.013562073931097984,test
+target_dataset:Daudi,Erlotinib,,,,0.06509844213724136,test
+target_dataset:COLO 783,Erlotinib,,,,0.020683184266090393,test
+target_dataset:SNU-423,Erlotinib,,,0.0353444847840811,0.058715805411338806,test
+target_dataset:SNU-61,Erlotinib,,,,0.13418278098106384,test
+target_dataset:NCI-H1435,Erlotinib,,,,0.055897269397974014,test
+target_dataset:Caov-4,Erlotinib,,,,0.09991218149662018,test
+target_dataset:OVSAHO,Erlotinib,,,0.028593683053534,0.00906996801495552,test
+target_dataset:LOU-NH91,Erlotinib,,,0.146030125411316,0.05224735289812088,test
+target_dataset:PaTu 8902,Erlotinib,,,0.0142065488811397,0.052087873220443726,test
+target_dataset:MFE-319,Erlotinib,,,0.262087844354188,0.042754918336868286,test
+target_dataset:Calu-1,Erlotinib,,,0.0088052462003865,0.02131858840584755,test
+target_dataset:MDA-MB-231,Erlotinib,,,,0.04438600316643715,test
+target_dataset:KYSE-450,Erlotinib,,,0.208821358045585,0.1895497739315033,test
+target_dataset:F5,Erlotinib,,,,0.01704133115708828,test
+target_dataset:OVTOKO,Erlotinib,,,0.105820028525121,0.09903007000684738,test
+target_dataset:CPC-N,Erlotinib,,,,0.08892183005809784,test
+target_dataset:UT-7,Erlotinib,,,,0.036511585116386414,test
+target_dataset:SCC-25,Erlotinib,,,,0.048776187002658844,test
+target_dataset:Namalwa,Erlotinib,,,,0.014368473552167416,test
+target_dataset:SNU-601,Erlotinib,,,,0.022306207567453384,test
+target_dataset:CL-40,Erlotinib,,,,0.05289771780371666,test
+target_dataset:SW1088,Erlotinib,,,0.0501817048387286,0.09976281225681305,test
+target_dataset:PL-21,Erlotinib,,,,0.007404224947094917,test
+target_dataset:VCaP,Erlotinib,,,,0.0400436669588089,test
+target_dataset:A-704,Erlotinib,,,,0.056596964597702026,test
+target_dataset:NCI-H647,Erlotinib,,,0.0064603721947235,0.05053826421499252,test
+target_dataset:Loucy,Erlotinib,,,,0.09657926857471466,test
+target_dataset:Ku812,Erlotinib,,,0.0324607245661844,0.05009573698043823,test
+target_dataset:AU565,Erlotinib,,,0.0466214596035104,0.14485231041908264,test
+target_dataset:HEC-251,Erlotinib,,,0.0692984705132535,0.2012619823217392,test
+target_dataset:TE-10,Erlotinib,,,,0.17014911770820618,test
+target_dataset:HCC4006,Erlotinib,,,0.492663395066886,0.08824224770069122,test
+target_dataset:COLO 684,Erlotinib,,,,0.010423844680190086,test
+target_dataset:TE-5,Erlotinib,,,0.026737511299685,0.10268107056617737,test
+target_dataset:KNS-42,Erlotinib,,,0.0,0.06160050630569458,test
+target_dataset:CAL-51,Erlotinib,,,,0.12714818120002747,test
+target_dataset:U2OS,Erlotinib,,,0.0449365561233068,0.03243056684732437,test
+target_dataset:HEC-151,Erlotinib,,,0.243795907921615,0.2126959264278412,test
+target_dataset:NCI-H446,Erlotinib,,,,0.050786979496479034,test
+target_dataset:HCC1500,Erlotinib,,,,0.08618682622909546,test
+target_dataset:CCF-STTG1,Erlotinib,,,,0.06183723732829094,test
+target_dataset:SU-DHL-1,Erlotinib,,,,0.071468785405159,test
+target_dataset:SUP-M2,Erlotinib,,,0.0,0.20694269239902496,test
+target_dataset:KS-1 [Human glioblastoma],Erlotinib,,,,0.0219316054135561,test
+target_dataset:PE/CA-PJ49,Erlotinib,,,,0.037333425134420395,test
+target_dataset:RCM-1 [Human rectum adenocarcinoma],Erlotinib,,,,0.05525839328765869,test
+target_dataset:SW1463,Erlotinib,,,,0.045830950140953064,test
+target_dataset:COLO 678,Erlotinib,,,0.157057444982617,0.12551403045654297,test
+target_dataset:HSC-2,Erlotinib,,,0.0718212186324384,0.20930296182632446,test
+target_dataset:SCC-4,Erlotinib,,,,0.00837643351405859,test
+target_dataset:59M,Erlotinib,,,,0.0807403028011322,test
+target_dataset:YKG-1,Erlotinib,,,0.0378246556038961,0.061199408024549484,test
+target_dataset:SNU-119,Erlotinib,,,,0.036383599042892456,test

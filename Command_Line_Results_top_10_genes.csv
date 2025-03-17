@@ -1,0 +1,11 @@
+target_variable,target_class,target_class_label,layer,name,importance,explainer
+Erlotinib,0,,gex,EGFR,0.014941928,IntegratedGradients
+Erlotinib,0,,gex,PPP1R13L,0.010100672,IntegratedGradients
+Erlotinib,0,,gex,ALDH3B1,0.009436401,IntegratedGradients
+Erlotinib,0,,gex,VCAN,0.008529289,IntegratedGradients
+Erlotinib,0,,gex,ITGB5,0.008441811,IntegratedGradients
+Erlotinib,0,,gex,SFN,0.007766565,IntegratedGradients
+Erlotinib,0,,gex,JUP,0.007688066,IntegratedGradients
+Erlotinib,0,,gex,STRBP,0.007578174,IntegratedGradients
+Erlotinib,0,,gex,RIN2,0.007458636,IntegratedGradients
+Erlotinib,0,,gex,FHL2,0.007361048,IntegratedGradients
