@@ -35,15 +35,18 @@ It have been done by:
 - Test 8: SupervisedVAE + CNV + GEX + Intermediate Fusion
 
 ### Snapshots during running the experiments
-<p align="center">
-  <img src="1.png" width="45%"> 
-  <img src="2.png" width="45%">
-</p>
+<table align="center">
+  <tr>
+    <td><img src="1.png" width="100%"></td>
+    <td><img src="2.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="3.png" width="100%"></td>
+    <td><img src="4.png" width="100%"></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="3.png" width="45%"> 
-  <img src="4.png" width="45%">
-</p>
+
 
 ## Project Overview (Part-2)
 Analysing the output CSV files using Colab after running the model in the command-line environment, the output files are:
