@@ -1,4 +1,4 @@
-# Multi-Omics-Benchmarking-by-Deep-Learning-for-Erlotinib-Response-Prediction-in-Cancer-Cell-Lines
+# Multi-Omics Benchmarking by Deep Learning for Erlotinib Response Prediction in Cancer Cell-Lines
 
 This project evaluates deep learning architectures for predicting drug response using multi-omics data from CCLE and GDSC. By testing different model architectures, omic data combinations, and fusion strategies, we benchmark performance and identify key biomarkers linked to Erlotinib sensitivity. Results are analyzed in a Jupyter notebook to explore embeddings and feature importance, contributing insights into precision oncology.
 
